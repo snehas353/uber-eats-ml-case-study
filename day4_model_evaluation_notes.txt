@@ -1,0 +1,21 @@
+
+DAY 4 — ML MODEL EVALUATION
+
+1. Mean Absolute Error (MAE)
+Measures the average absolute difference between actual
+and predicted delivery times. Lower is better.
+
+2. Root Mean Squared Error (RMSE)
+Penalizes larger prediction errors more strongly.
+Lower is better.
+
+3. R-squared (R2)
+Measures how much variation in delivery time is explained
+by the model. Higher is generally better.
+
+4. Model Comparison
+Linear Regression will be compared with Random Forest
+using the same training and testing data.
+
+Note: Model scores will be recorded after training with
+a valid delivery-time target column.

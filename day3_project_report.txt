@@ -1,0 +1,28 @@
+
+UBER EATS ML CASE STUDY — DAY 3 REPORT
+
+1. Data Import
+Imported the customers, restaurants, drivers, orders,
+deliveries, payments, and reviews datasets.
+
+2. Data Quality Checks
+Checked dataset dimensions, missing values, and duplicate rows.
+Removed duplicate records and handled missing values.
+
+3. Feature Engineering
+Converted order timestamps into datetime format.
+Created order_hour, order_day, order_month, and order_date.
+
+4. Exploratory Data Analysis
+Analyzed order distribution by hour and day of the week.
+Visualized order statuses and compared order amounts.
+Analyzed customer order counts and spending patterns.
+
+5. Data Saving and Validation
+Saved cleaned datasets and analysis outputs as CSV files.
+Validated dataset dimensions, missing values, and duplicates.
+
+6. Conclusion
+The analysis provides insights into ordering patterns,
+order statuses, and customer spending.
+The processed data can support further ML analysis.

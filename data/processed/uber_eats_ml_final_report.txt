@@ -1,0 +1,21 @@
+UBER EATS ML CASE STUDY - FINAL REPORT
+=============================================
+
+Report Date: 2026-10-28
+Project: Uber Eats ML Case Study
+
+1. DATA PREPROCESSING
+Loaded and cleaned datasets, checked missing values and duplicates, and prepared available data for analysis.
+
+2. EXPLORATORY DATA ANALYSIS
+Analyzed order patterns, order status, revenue, customer spending, and time-based trends.
+
+3. MODEL EVALUATION
+            Model      MAE     RMSE       R2
+Linear Regression 4.565267 5.717735 0.900551
+    Random Forest 4.660089 5.880052 0.894824
+
+Best model by RMSE: Linear Regression
+
+4. CONCLUSION
+Model performance should be assessed using MAE, RMSE, and R-squared. Conclusions about delivery-time prediction require a verified target column and valid evaluation results.

@@ -1,0 +1,29 @@
+UBER EATS ML CASE STUDY — SUBMISSION SUMMARY
+=============================================
+
+Project: Uber Eats ML Case Study
+Phase: Day 5 — Model Evaluation and Finalization
+
+Deliverables:
+- Data preprocessing and validation
+- Exploratory Data Analysis (EDA)
+- Linear Regression and Random Forest model comparison
+- Model evaluation using MAE, RMSE, and R-squared
+- Saved trained model
+- Final project report
+
+Files currently available in the submission folder:
+- final_validation_summary.csv
+- payments_cleaned.csv
+- combined_orders_deliveries.csv
+- submission_summary.txt
+- orders_cleaned.csv
+- deliveries_cleaned.csv
+- customer_spending_analysis.csv
+- reviews_cleaned.csv
+- customers_cleaned.csv
+- orders_delivery_processed.csv
+- orders_feature_engineered.csv
+- drivers_cleaned.csv
+- restaurants_cleaned.csv
+- uber_eats_ml_final_report.txt

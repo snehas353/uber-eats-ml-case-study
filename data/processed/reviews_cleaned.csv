@@ -1,0 +1,1574 @@
+review_id,order_id,review_rating,review_text,review_timestamp
+RV00001,O03601,3,Fast delivery and tasty food,2025-07-16 20:00:00
+RV00002,O02267,3,Great restaurant and service,2025-01-25 10:00:00
+RV00003,O02014,4,Packaging could be improved,2025-07-11 18:00:00
+RV00004,O03249,1,Order arrived late,2025-07-04 19:00:00
+RV00005,O02609,5,Food was good but delivery was slow,2025-11-26 16:00:00
+RV00006,O02446,5,Excellent experience,2025-09-20 23:00:00
+RV00007,O04373,3,Fast delivery and tasty food,2025-09-25 20:00:00
+RV00008,O03922,4,Excellent experience,2025-09-07 08:00:00
+RV00009,O03903,4,Fast delivery and tasty food,2025-11-04 22:00:00
+RV00010,O03744,1,Packaging could be improved,2025-05-11 13:00:00
+RV00011,O01740,3,Packaging could be improved,2025-04-13 22:00:00
+RV00012,O01917,3,Excellent experience,2025-01-31 22:00:00
+RV00013,O01832,3,Packaging could be improved,2025-02-01 14:00:00
+RV00014,O02563,1,Food was good but delivery was slow,2025-09-24 00:00:00
+RV00015,O04830,5,Great restaurant and service,2025-10-29 19:00:00
+RV00016,O02943,2,Packaging could be improved,2025-10-23 23:00:00
+RV00017,O04570,4,Food was good but delivery was slow,2025-01-25 01:00:00
+RV00018,O03770,5,Packaging could be improved,2025-01-29 23:00:00
+RV00019,O03742,2,Excellent experience,2025-10-12 07:00:00
+RV00020,O00331,5,Food was good but delivery was slow,2025-04-04 11:00:00
+RV00021,O00516,5,Great restaurant and service,2025-06-22 05:00:00
+RV00022,O03318,5,Great restaurant and service,2025-03-15 06:00:00
+RV00023,O02176,5,Great restaurant and service,2025-01-23 00:00:00
+RV00024,O02282,3,Order arrived late,2025-05-20 05:00:00
+RV00025,O02753,5,Great restaurant and service,2025-08-08 07:00:00
+RV00026,O04235,2,Excellent experience,2025-07-24 12:00:00
+RV00027,O00756,2,Food was good but delivery was slow,2025-12-05 09:00:00
+RV00028,O02317,4,Fast delivery and tasty food,2025-01-11 15:00:00
+RV00029,O00951,1,Great restaurant and service,2025-01-17 20:00:00
+RV00030,O01479,2,Fast delivery and tasty food,2025-04-05 11:00:00
+RV00031,O02204,2,Order arrived late,2025-12-17 08:00:00
+RV00032,O01698,2,Fast delivery and tasty food,2025-01-14 07:00:00
+RV00033,O00199,2,Excellent experience,2025-07-03 16:00:00
+RV00034,O04059,1,Great restaurant and service,2025-11-16 16:00:00
+RV00035,O01248,1,Food was good but delivery was slow,2025-12-26 16:00:00
+RV00036,O04159,5,Great restaurant and service,2025-08-01 01:00:00
+RV00037,O03114,2,Excellent experience,2025-06-20 09:00:00
+RV00038,O02291,2,Packaging could be improved,2025-07-19 19:00:00
+RV00039,O03401,4,Packaging could be improved,2025-12-18 08:00:00
+RV00040,O03820,4,Fast delivery and tasty food,2025-06-05 04:00:00
+RV00041,O00476,4,Order arrived late,2025-07-31 23:00:00
+RV00042,O02029,4,Order arrived late,2025-04-18 17:00:00
+RV00043,O03580,5,Great restaurant and service,2025-04-04 06:00:00
+RV00044,O04691,3,Packaging could be improved,2025-10-06 18:00:00
+RV00045,O00218,4,Order arrived late,2025-11-05 23:00:00
+RV00046,O00925,4,Order arrived late,2025-10-21 11:00:00
+RV00047,O02270,1,Fast delivery and tasty food,2025-02-28 22:00:00
+RV00048,O03668,2,Great restaurant and service,2025-05-20 16:00:00
+RV00049,O02397,5,Excellent experience,2025-08-12 18:00:00
+RV00050,O00608,2,Excellent experience,2025-09-14 16:00:00
+RV00051,O01363,3,Food was good but delivery was slow,2025-04-05 05:00:00
+RV00052,O02111,5,Excellent experience,2025-06-27 22:00:00
+RV00053,O01364,3,Excellent experience,2025-02-07 00:00:00
+RV00054,O04888,2,Fast delivery and tasty food,2025-08-26 04:00:00
+RV00055,O02013,1,Great restaurant and service,2025-11-30 16:00:00
+RV00056,O02419,4,Fast delivery and tasty food,2025-06-24 02:00:00
+RV00057,O00729,2,Great restaurant and service,2025-01-12 06:00:00
+RV00058,O00323,5,Excellent experience,2025-12-27 05:00:00
+RV00059,O04311,4,Food was good but delivery was slow,2025-06-20 19:00:00
+RV00060,O01218,5,Excellent experience,2025-06-03 10:00:00
+RV00061,O01223,3,Great restaurant and service,2025-06-18 04:00:00
+RV00062,O04279,5,Excellent experience,2025-02-01 23:00:00
+RV00063,O03606,1,Packaging could be improved,2025-05-27 17:00:00
+RV00064,O04887,3,Great restaurant and service,2025-04-21 13:00:00
+RV00065,O04525,2,Food was good but delivery was slow,2025-02-21 01:00:00
+RV00066,O01833,4,Great restaurant and service,2025-01-05 13:00:00
+RV00067,O04564,4,Excellent experience,2025-06-13 04:00:00
+RV00068,O04539,1,Fast delivery and tasty food,2025-09-25 03:00:00
+RV00069,O04975,5,Great restaurant and service,2025-08-20 22:00:00
+RV00070,O00141,2,Excellent experience,2025-03-24 00:00:00
+RV00071,O03077,5,Order arrived late,2025-08-01 23:00:00
+RV00072,O04982,5,Packaging could be improved,2025-01-03 17:00:00
+RV00073,O02487,1,Packaging could be improved,2025-07-28 20:00:00
+RV00074,O00408,3,Packaging could be improved,2025-05-12 23:00:00
+RV00075,O02836,3,Food was good but delivery was slow,2025-06-29 14:00:00
+RV00076,O04673,1,Great restaurant and service,2025-05-05 16:00:00
+RV00077,O04170,1,Packaging could be improved,2025-06-25 15:00:00
+RV00078,O03006,1,Excellent experience,2025-12-28 12:00:00
+RV00079,O04000,5,Food was good but delivery was slow,2025-01-22 23:00:00
+RV00080,O02297,5,Order arrived late,2025-09-10 17:00:00
+RV00081,O01427,2,Fast delivery and tasty food,2025-03-03 02:00:00
+RV00082,O00665,1,Packaging could be improved,2025-03-08 10:00:00
+RV00083,O02740,5,Excellent experience,2025-08-08 10:00:00
+RV00084,O01029,3,Food was good but delivery was slow,2025-01-03 12:00:00
+RV00085,O02676,1,Great restaurant and service,2025-02-16 07:00:00
+RV00086,O01913,3,Great restaurant and service,2025-10-16 03:00:00
+RV00087,O01769,4,Excellent experience,2025-06-09 00:00:00
+RV00088,O03894,2,Great restaurant and service,2025-07-20 18:00:00
+RV00089,O03997,4,Packaging could be improved,2025-08-21 08:00:00
+RV00090,O02478,2,Fast delivery and tasty food,2025-02-05 02:00:00
+RV00091,O03040,1,Food was good but delivery was slow,2025-12-27 05:00:00
+RV00092,O04404,2,Excellent experience,2025-11-15 15:00:00
+RV00093,O00616,5,Food was good but delivery was slow,2025-02-27 01:00:00
+RV00094,O04639,3,Packaging could be improved,2025-04-06 10:00:00
+RV00095,O01846,5,Great restaurant and service,2025-09-24 11:00:00
+RV00096,O02035,1,Packaging could be improved,2025-04-10 04:00:00
+RV00097,O04898,4,Order arrived late,2025-08-12 09:00:00
+RV00098,O00103,3,Order arrived late,2025-11-28 20:00:00
+RV00099,O02569,1,Packaging could be improved,2025-02-06 02:00:00
+RV00100,O04111,5,Food was good but delivery was slow,2025-05-08 11:00:00
+RV00101,O01637,5,Excellent experience,2025-01-22 13:00:00
+RV00102,O03657,2,Excellent experience,2025-11-29 09:00:00
+RV00103,O04173,2,Food was good but delivery was slow,2025-01-20 22:00:00
+RV00104,O01734,4,Fast delivery and tasty food,2025-02-24 06:00:00
+RV00105,O01439,2,Food was good but delivery was slow,2025-11-05 07:00:00
+RV00106,O01228,2,Packaging could be improved,2025-11-06 07:00:00
+RV00107,O02562,2,Packaging could be improved,2025-04-04 20:00:00
+RV00108,O02765,4,Order arrived late,2025-04-15 21:00:00
+RV00109,O03958,1,Excellent experience,2025-09-26 01:00:00
+RV00110,O02365,3,Order arrived late,2025-06-27 09:00:00
+RV00111,O01262,1,Excellent experience,2025-08-23 01:00:00
+RV00112,O04307,1,Food was good but delivery was slow,2025-08-29 07:00:00
+RV00113,O00755,1,Fast delivery and tasty food,2025-12-05 16:00:00
+RV00114,O02086,5,Great restaurant and service,2025-09-23 01:00:00
+RV00115,O01017,3,Excellent experience,2025-01-25 11:00:00
+RV00116,O00662,3,Fast delivery and tasty food,2025-03-06 08:00:00
+RV00117,O01896,5,Fast delivery and tasty food,2025-07-15 11:00:00
+RV00118,O02923,5,Fast delivery and tasty food,2025-05-10 15:00:00
+RV00119,O02516,2,Food was good but delivery was slow,2025-06-26 04:00:00
+RV00120,O00075,5,Fast delivery and tasty food,2025-07-12 02:00:00
+RV00121,O01072,4,Fast delivery and tasty food,2025-07-27 00:00:00
+RV00122,O00859,5,Packaging could be improved,2025-07-09 03:00:00
+RV00123,O04616,2,Packaging could be improved,2025-07-29 20:00:00
+RV00124,O01055,5,Excellent experience,2025-02-24 09:00:00
+RV00125,O04216,4,Packaging could be improved,2025-01-29 18:00:00
+RV00126,O00275,5,Excellent experience,2025-11-14 13:00:00
+RV00127,O01413,1,Fast delivery and tasty food,2025-02-16 01:00:00
+RV00128,O04816,3,Packaging could be improved,2025-04-12 17:00:00
+RV00129,O04417,4,Order arrived late,2025-08-29 22:00:00
+RV00130,O01155,4,Great restaurant and service,2025-08-08 22:00:00
+RV00131,O02863,4,Great restaurant and service,2025-09-07 08:00:00
+RV00132,O04547,1,Food was good but delivery was slow,2025-12-04 04:00:00
+RV00133,O02132,1,Packaging could be improved,2025-11-28 12:00:00
+RV00134,O04296,3,Food was good but delivery was slow,2025-11-01 11:00:00
+RV00135,O02235,2,Great restaurant and service,2025-12-19 05:00:00
+RV00136,O01905,3,Packaging could be improved,2025-07-26 05:00:00
+RV00137,O03465,4,Great restaurant and service,2025-01-31 21:00:00
+RV00138,O01526,4,Packaging could be improved,2025-01-28 07:00:00
+RV00139,O02505,4,Order arrived late,2025-07-28 20:00:00
+RV00140,O03882,3,Fast delivery and tasty food,2025-02-28 17:00:00
+RV00141,O03019,2,Excellent experience,2025-01-02 22:00:00
+RV00142,O01313,2,Packaging could be improved,2025-11-25 21:00:00
+RV00143,O00504,3,Packaging could be improved,2025-11-08 20:00:00
+RV00144,O02479,4,Food was good but delivery was slow,2025-12-04 03:00:00
+RV00145,O02508,3,Fast delivery and tasty food,2025-04-26 01:00:00
+RV00146,O00377,3,Packaging could be improved,2025-02-20 03:00:00
+RV00147,O04977,5,Packaging could be improved,2025-03-30 12:00:00
+RV00148,O02810,5,Excellent experience,2025-02-11 19:00:00
+RV00149,O04496,1,Great restaurant and service,2025-12-29 16:00:00
+RV00150,O04766,1,Fast delivery and tasty food,2025-12-22 14:00:00
+RV00151,O02248,3,Fast delivery and tasty food,2025-05-06 01:00:00
+RV00152,O01251,5,Great restaurant and service,2025-07-10 12:00:00
+RV00153,O00117,4,Packaging could be improved,2025-06-10 21:00:00
+RV00154,O04529,1,Fast delivery and tasty food,2025-07-29 23:00:00
+RV00155,O00885,4,Fast delivery and tasty food,2025-01-22 06:00:00
+RV00156,O04058,4,Excellent experience,2025-05-11 14:00:00
+RV00157,O01875,1,Order arrived late,2025-06-12 20:00:00
+RV00158,O02832,3,Great restaurant and service,2025-01-16 15:00:00
+RV00159,O00121,5,Great restaurant and service,2025-02-09 08:00:00
+RV00160,O01209,1,Excellent experience,2025-06-29 22:00:00
+RV00161,O00069,2,Order arrived late,2025-11-26 18:00:00
+RV00162,O00310,2,Excellent experience,2025-05-28 15:00:00
+RV00163,O03830,4,Great restaurant and service,2025-09-25 17:00:00
+RV00164,O04241,2,Great restaurant and service,2025-08-12 01:00:00
+RV00165,O00009,4,Packaging could be improved,2025-10-29 23:00:00
+RV00166,O02253,5,Excellent experience,2025-07-18 23:00:00
+RV00167,O01641,1,Fast delivery and tasty food,2025-01-19 01:00:00
+RV00168,O01356,1,Fast delivery and tasty food,2025-06-20 03:00:00
+RV00169,O01964,5,Food was good but delivery was slow,2025-01-27 11:00:00
+RV00170,O01136,4,Packaging could be improved,2025-09-09 05:00:00
+RV00171,O00214,3,Fast delivery and tasty food,2025-12-06 15:00:00
+RV00172,O01806,2,Packaging could be improved,2025-11-07 01:00:00
+RV00173,O02935,5,Excellent experience,2025-12-01 21:00:00
+RV00174,O02872,2,Fast delivery and tasty food,2025-03-30 17:00:00
+RV00175,O00072,3,Packaging could be improved,2025-06-12 20:00:00
+RV00176,O02265,4,Excellent experience,2025-01-14 14:00:00
+RV00177,O03113,2,Great restaurant and service,2025-08-10 12:00:00
+RV00178,O02654,4,Order arrived late,2025-10-15 18:00:00
+RV00179,O02053,3,Food was good but delivery was slow,2025-06-21 06:00:00
+RV00180,O02979,4,Excellent experience,2025-10-07 19:00:00
+RV00181,O00107,3,Great restaurant and service,2025-12-16 23:00:00
+RV00182,O01063,1,Order arrived late,2025-08-26 21:00:00
+RV00183,O04128,2,Packaging could be improved,2025-10-02 06:00:00
+RV00184,O03625,2,Order arrived late,2025-09-17 23:00:00
+RV00185,O03799,3,Fast delivery and tasty food,2025-07-31 21:00:00
+RV00186,O04075,3,Great restaurant and service,2025-06-05 16:00:00
+RV00187,O04836,5,Great restaurant and service,2025-10-21 15:00:00
+RV00188,O01853,3,Packaging could be improved,2025-04-06 16:00:00
+RV00189,O03899,3,Food was good but delivery was slow,2025-06-13 08:00:00
+RV00190,O00834,4,Food was good but delivery was slow,2025-09-20 19:00:00
+RV00191,O01700,4,Packaging could be improved,2025-06-13 11:00:00
+RV00192,O04165,2,Fast delivery and tasty food,2025-07-19 21:00:00
+RV00193,O03714,4,Packaging could be improved,2025-06-24 12:00:00
+RV00194,O03895,4,Packaging could be improved,2025-07-30 00:00:00
+RV00195,O02294,2,Great restaurant and service,2025-05-09 16:00:00
+RV00196,O03910,1,Packaging could be improved,2025-06-22 18:00:00
+RV00197,O01381,5,Excellent experience,2025-05-25 13:00:00
+RV00198,O00333,4,Food was good but delivery was slow,2025-06-27 01:00:00
+RV00199,O01195,1,Food was good but delivery was slow,2025-12-27 18:00:00
+RV00200,O03764,5,Fast delivery and tasty food,2025-03-03 07:00:00
+RV00201,O02607,2,Food was good but delivery was slow,2025-11-10 19:00:00
+RV00202,O02425,4,Fast delivery and tasty food,2025-05-20 09:00:00
+RV00203,O01098,4,Great restaurant and service,2025-07-09 03:00:00
+RV00204,O01292,3,Fast delivery and tasty food,2025-01-16 17:00:00
+RV00205,O00546,4,Food was good but delivery was slow,2025-05-04 07:00:00
+RV00206,O04083,4,Packaging could be improved,2025-05-04 15:00:00
+RV00207,O04137,1,Packaging could be improved,2025-02-03 11:00:00
+RV00208,O00272,1,Excellent experience,2025-12-20 21:00:00
+RV00209,O01160,4,Fast delivery and tasty food,2025-07-10 03:00:00
+RV00210,O02262,5,Order arrived late,2025-02-15 01:00:00
+RV00211,O04553,2,Order arrived late,2025-08-30 03:00:00
+RV00212,O04932,1,Great restaurant and service,2025-12-17 07:00:00
+RV00213,O03477,5,Food was good but delivery was slow,2025-11-29 04:00:00
+RV00214,O04937,4,Food was good but delivery was slow,2025-02-26 04:00:00
+RV00215,O00149,3,Order arrived late,2025-03-12 19:00:00
+RV00216,O04983,1,Excellent experience,2025-01-23 09:00:00
+RV00217,O01106,1,Great restaurant and service,2025-12-24 05:00:00
+RV00218,O04143,3,Fast delivery and tasty food,2025-03-04 21:00:00
+RV00219,O02307,4,Fast delivery and tasty food,2025-10-01 19:00:00
+RV00220,O00773,1,Great restaurant and service,2025-05-22 19:00:00
+RV00221,O01023,4,Food was good but delivery was slow,2025-10-17 09:00:00
+RV00222,O03498,5,Great restaurant and service,2025-06-27 00:00:00
+RV00223,O03532,1,Food was good but delivery was slow,2025-04-22 01:00:00
+RV00224,O02263,4,Great restaurant and service,2025-05-18 15:00:00
+RV00225,O03831,5,Packaging could be improved,2025-09-12 02:00:00
+RV00226,O01033,1,Excellent experience,2025-12-22 10:00:00
+RV00227,O03222,2,Fast delivery and tasty food,2025-10-29 01:00:00
+RV00228,O03155,4,Packaging could be improved,2025-09-04 01:00:00
+RV00229,O03366,5,Order arrived late,2025-02-09 05:00:00
+RV00230,O03240,2,Packaging could be improved,2025-11-07 10:00:00
+RV00231,O00663,4,Great restaurant and service,2025-09-29 06:00:00
+RV00232,O02256,1,Order arrived late,2025-08-17 07:00:00
+RV00233,O04978,4,Order arrived late,2025-01-25 16:00:00
+RV00234,O04997,5,Fast delivery and tasty food,2025-02-07 22:00:00
+RV00235,O01039,1,Packaging could be improved,2025-10-20 07:00:00
+RV00236,O01089,1,Fast delivery and tasty food,2025-12-23 23:00:00
+RV00237,O02437,1,Excellent experience,2025-07-01 18:00:00
+RV00238,O02818,3,Excellent experience,2025-03-22 06:00:00
+RV00239,O03018,5,Excellent experience,2025-12-17 18:00:00
+RV00240,O01925,2,Excellent experience,2025-12-25 02:00:00
+RV00241,O04061,1,Order arrived late,2025-02-28 04:00:00
+RV00242,O02483,5,Great restaurant and service,2025-11-13 11:00:00
+RV00243,O01127,3,Excellent experience,2025-08-13 15:00:00
+RV00244,O03704,3,Fast delivery and tasty food,2025-10-03 20:00:00
+RV00245,O01032,1,Great restaurant and service,2025-08-07 10:00:00
+RV00246,O04727,5,Packaging could be improved,2025-01-07 05:00:00
+RV00247,O03004,3,Packaging could be improved,2025-04-16 17:00:00
+RV00248,O03492,1,Fast delivery and tasty food,2025-02-27 17:00:00
+RV00249,O04674,4,Food was good but delivery was slow,2025-06-09 10:00:00
+RV00250,O01083,4,Food was good but delivery was slow,2025-04-30 19:00:00
+RV00251,O03859,4,Food was good but delivery was slow,2025-05-14 21:00:00
+RV00252,O04513,2,Food was good but delivery was slow,2025-04-15 13:00:00
+RV00253,O00154,5,Order arrived late,2025-03-22 23:00:00
+RV00254,O00911,4,Order arrived late,2025-02-03 12:00:00
+RV00255,O02639,3,Packaging could be improved,2025-06-27 23:00:00
+RV00256,O03359,2,Packaging could be improved,2025-06-30 22:00:00
+RV00257,O01327,4,Order arrived late,2025-06-01 18:00:00
+RV00258,O03970,1,Order arrived late,2025-11-20 00:00:00
+RV00259,O01360,3,Packaging could be improved,2025-08-19 02:00:00
+RV00260,O04814,2,Fast delivery and tasty food,2025-06-15 20:00:00
+RV00261,O04321,2,Order arrived late,2025-09-07 10:00:00
+RV00262,O01692,3,Fast delivery and tasty food,2025-03-08 02:00:00
+RV00263,O00521,4,Excellent experience,2025-04-28 23:00:00
+RV00264,O02215,1,Fast delivery and tasty food,2025-09-19 05:00:00
+RV00265,O01670,1,Fast delivery and tasty food,2025-04-08 19:00:00
+RV00266,O03687,1,Order arrived late,2025-12-26 05:00:00
+RV00267,O02947,2,Excellent experience,2025-10-11 05:00:00
+RV00268,O01184,4,Food was good but delivery was slow,2025-04-29 11:00:00
+RV00269,O03381,3,Fast delivery and tasty food,2025-07-30 10:00:00
+RV00270,O00380,5,Excellent experience,2025-09-28 04:00:00
+RV00271,O04545,1,Excellent experience,2025-03-16 15:00:00
+RV00272,O02999,3,Order arrived late,2025-04-03 16:00:00
+RV00273,O03983,3,Excellent experience,2025-12-22 18:00:00
+RV00274,O02734,1,Great restaurant and service,2025-05-10 04:00:00
+RV00275,O04434,5,Food was good but delivery was slow,2025-02-21 19:00:00
+RV00276,O03446,2,Order arrived late,2025-07-26 22:00:00
+RV00277,O02900,2,Great restaurant and service,2025-10-31 01:00:00
+RV00278,O00361,4,Fast delivery and tasty food,2025-10-24 16:00:00
+RV00279,O00672,2,Order arrived late,2025-11-10 14:00:00
+RV00280,O04245,3,Fast delivery and tasty food,2025-08-13 22:00:00
+RV00281,O03599,2,Order arrived late,2025-11-06 16:00:00
+RV00282,O04724,4,Excellent experience,2025-11-12 15:00:00
+RV00283,O03046,3,Food was good but delivery was slow,2025-05-12 17:00:00
+RV00284,O02008,3,Order arrived late,2025-02-01 23:00:00
+RV00285,O03874,5,Great restaurant and service,2025-10-21 21:00:00
+RV00286,O03679,1,Packaging could be improved,2025-04-23 17:00:00
+RV00287,O03611,1,Excellent experience,2025-09-10 00:00:00
+RV00288,O01792,1,Order arrived late,2025-10-08 08:00:00
+RV00289,O03507,4,Excellent experience,2025-05-27 02:00:00
+RV00290,O00653,2,Packaging could be improved,2025-04-24 14:00:00
+RV00291,O04048,1,Great restaurant and service,2025-06-19 05:00:00
+RV00292,O04640,2,Excellent experience,2025-05-16 06:00:00
+RV00293,O00123,1,Excellent experience,2025-06-30 08:00:00
+RV00294,O04106,5,Order arrived late,2025-09-11 00:00:00
+RV00295,O02839,2,Excellent experience,2025-01-11 08:00:00
+RV00296,O01092,4,Great restaurant and service,2025-12-28 15:00:00
+RV00297,O04721,4,Order arrived late,2025-04-07 00:00:00
+RV00298,O01457,2,Food was good but delivery was slow,2025-10-03 14:00:00
+RV00299,O01373,4,Packaging could be improved,2025-01-26 14:00:00
+RV00300,O02107,3,Great restaurant and service,2025-11-10 02:00:00
+RV00301,O04308,4,Great restaurant and service,2025-07-05 13:00:00
+RV00302,O04409,5,Fast delivery and tasty food,2025-10-20 07:00:00
+RV00303,O02804,5,Packaging could be improved,2025-01-05 06:00:00
+RV00304,O01348,2,Excellent experience,2025-07-04 00:00:00
+RV00305,O04801,4,Great restaurant and service,2025-07-09 06:00:00
+RV00306,O01523,2,Order arrived late,2025-09-17 15:00:00
+RV00307,O02095,1,Fast delivery and tasty food,2025-12-08 19:00:00
+RV00308,O03418,3,Fast delivery and tasty food,2025-06-18 02:00:00
+RV00309,O04636,2,Great restaurant and service,2025-08-10 23:00:00
+RV00310,O01257,2,Excellent experience,2025-09-05 16:00:00
+RV00311,O00501,2,Great restaurant and service,2025-07-12 14:00:00
+RV00312,O04273,2,Fast delivery and tasty food,2025-10-05 13:00:00
+RV00313,O03448,5,Order arrived late,2025-05-05 11:00:00
+RV00314,O04369,3,Excellent experience,2025-08-28 22:00:00
+RV00315,O01053,1,Great restaurant and service,2025-10-21 13:00:00
+RV00316,O04491,3,Packaging could be improved,2025-09-04 16:00:00
+RV00317,O01370,2,Excellent experience,2025-04-12 00:00:00
+RV00318,O04262,5,Excellent experience,2025-01-22 05:00:00
+RV00319,O02857,1,Fast delivery and tasty food,2025-11-22 06:00:00
+RV00320,O04725,2,Great restaurant and service,2025-06-28 09:00:00
+RV00321,O01504,2,Food was good but delivery was slow,2025-02-20 11:00:00
+RV00322,O04922,4,Fast delivery and tasty food,2025-08-07 15:00:00
+RV00323,O01162,3,Great restaurant and service,2025-09-07 07:00:00
+RV00324,O01900,3,Great restaurant and service,2025-01-22 08:00:00
+RV00325,O03800,3,Food was good but delivery was slow,2025-09-16 19:00:00
+RV00326,O01563,4,Excellent experience,2025-08-15 15:00:00
+RV00327,O03816,5,Excellent experience,2025-07-14 00:00:00
+RV00328,O01269,5,Great restaurant and service,2025-10-19 23:00:00
+RV00329,O00255,5,Packaging could be improved,2025-12-19 23:00:00
+RV00330,O02031,1,Fast delivery and tasty food,2025-01-05 10:00:00
+RV00331,O00037,4,Packaging could be improved,2025-08-01 07:00:00
+RV00332,O00112,4,Order arrived late,2025-08-05 18:00:00
+RV00333,O01984,5,Excellent experience,2025-08-22 16:00:00
+RV00334,O01714,5,Great restaurant and service,2025-10-08 21:00:00
+RV00335,O00656,5,Great restaurant and service,2025-11-08 17:00:00
+RV00336,O01179,4,Packaging could be improved,2025-12-19 04:00:00
+RV00337,O04422,5,Order arrived late,2025-11-24 19:00:00
+RV00338,O04935,3,Food was good but delivery was slow,2025-12-10 09:00:00
+RV00339,O00477,5,Fast delivery and tasty food,2025-07-07 03:00:00
+RV00340,O02803,3,Order arrived late,2025-07-07 20:00:00
+RV00341,O03115,2,Fast delivery and tasty food,2025-09-05 08:00:00
+RV00342,O01084,2,Excellent experience,2025-02-01 06:00:00
+RV00343,O02096,4,Great restaurant and service,2026-01-02 02:00:00
+RV00344,O03758,1,Food was good but delivery was slow,2025-06-30 11:00:00
+RV00345,O03725,2,Excellent experience,2025-03-12 05:00:00
+RV00346,O04916,4,Order arrived late,2025-03-14 22:00:00
+RV00347,O03051,4,Food was good but delivery was slow,2025-10-07 01:00:00
+RV00348,O02243,3,Order arrived late,2025-08-12 09:00:00
+RV00349,O02232,3,Fast delivery and tasty food,2025-07-06 13:00:00
+RV00350,O01396,5,Excellent experience,2025-07-25 21:00:00
+RV00351,O04362,2,Fast delivery and tasty food,2025-07-17 05:00:00
+RV00352,O03667,3,Food was good but delivery was slow,2025-05-31 00:00:00
+RV00353,O01466,1,Packaging could be improved,2025-01-06 07:00:00
+RV00354,O00397,4,Fast delivery and tasty food,2025-01-23 06:00:00
+RV00355,O00054,5,Food was good but delivery was slow,2025-10-20 01:00:00
+RV00356,O03781,3,Food was good but delivery was slow,2025-05-15 16:00:00
+RV00357,O01243,3,Order arrived late,2025-12-06 04:00:00
+RV00358,O04037,3,Fast delivery and tasty food,2025-02-21 10:00:00
+RV00359,O01060,2,Excellent experience,2025-11-13 01:00:00
+RV00360,O02103,3,Fast delivery and tasty food,2025-10-04 13:00:00
+RV00361,O03932,4,Order arrived late,2025-12-10 14:00:00
+RV00362,O04428,3,Food was good but delivery was slow,2025-12-30 10:00:00
+RV00363,O00908,1,Excellent experience,2025-09-28 19:00:00
+RV00364,O02745,3,Packaging could be improved,2025-11-30 14:00:00
+RV00365,O01729,5,Great restaurant and service,2025-10-08 05:00:00
+RV00366,O00237,5,Excellent experience,2025-11-28 01:00:00
+RV00367,O00791,1,Great restaurant and service,2025-05-13 09:00:00
+RV00368,O00216,5,Fast delivery and tasty food,2025-11-24 06:00:00
+RV00369,O04686,2,Excellent experience,2025-09-24 14:00:00
+RV00370,O02813,4,Fast delivery and tasty food,2025-01-07 00:00:00
+RV00371,O01470,4,Excellent experience,2025-12-04 04:00:00
+RV00372,O04411,2,Fast delivery and tasty food,2025-11-29 20:00:00
+RV00373,O04896,5,Great restaurant and service,2025-10-02 08:00:00
+RV00374,O03232,1,Food was good but delivery was slow,2025-06-30 20:00:00
+RV00375,O01471,1,Food was good but delivery was slow,2025-12-27 06:00:00
+RV00376,O04775,4,Fast delivery and tasty food,2025-02-03 22:00:00
+RV00377,O03775,1,Fast delivery and tasty food,2025-02-10 10:00:00
+RV00378,O00688,2,Packaging could be improved,2025-11-25 22:00:00
+RV00379,O04375,4,Fast delivery and tasty food,2025-07-09 21:00:00
+RV00380,O00328,3,Order arrived late,2025-03-18 15:00:00
+RV00381,O01409,2,Great restaurant and service,2025-05-24 01:00:00
+RV00382,O04364,2,Fast delivery and tasty food,2025-11-30 15:00:00
+RV00383,O01730,1,Food was good but delivery was slow,2025-03-05 23:00:00
+RV00384,O04899,1,Excellent experience,2025-06-20 18:00:00
+RV00385,O04195,1,Food was good but delivery was slow,2025-03-23 09:00:00
+RV00386,O02691,3,Order arrived late,2025-10-02 23:00:00
+RV00387,O01672,2,Excellent experience,2025-01-27 13:00:00
+RV00388,O04849,5,Food was good but delivery was slow,2025-07-16 00:00:00
+RV00389,O00614,4,Fast delivery and tasty food,2025-01-19 23:00:00
+RV00390,O00043,1,Great restaurant and service,2025-11-21 14:00:00
+RV00391,O00644,1,Fast delivery and tasty food,2025-06-07 20:00:00
+RV00392,O03243,2,Excellent experience,2025-07-02 10:00:00
+RV00393,O02938,3,Great restaurant and service,2025-01-27 05:00:00
+RV00394,O04231,1,Packaging could be improved,2025-06-19 06:00:00
+RV00395,O03136,3,Order arrived late,2025-04-24 10:00:00
+RV00396,O04907,3,Food was good but delivery was slow,2025-12-14 07:00:00
+RV00397,O02982,5,Food was good but delivery was slow,2025-11-14 02:00:00
+RV00398,O04023,3,Order arrived late,2025-05-24 12:00:00
+RV00399,O01311,5,Food was good but delivery was slow,2025-05-12 06:00:00
+RV00400,O02023,4,Excellent experience,2025-05-09 22:00:00
+RV00401,O04909,3,Packaging could be improved,2025-01-14 13:00:00
+RV00402,O01518,4,Excellent experience,2025-12-29 13:00:00
+RV00403,O03516,3,Packaging could be improved,2025-08-20 04:00:00
+RV00404,O00880,5,Great restaurant and service,2025-02-09 19:00:00
+RV00405,O02614,5,Fast delivery and tasty food,2025-01-03 11:00:00
+RV00406,O01966,4,Packaging could be improved,2025-03-06 04:00:00
+RV00407,O03839,2,Packaging could be improved,2025-11-18 11:00:00
+RV00408,O04376,2,Packaging could be improved,2025-11-26 17:00:00
+RV00409,O02300,2,Food was good but delivery was slow,2025-08-23 00:00:00
+RV00410,O04274,3,Packaging could be improved,2025-08-26 12:00:00
+RV00411,O02020,2,Order arrived late,2025-07-02 11:00:00
+RV00412,O03789,4,Fast delivery and tasty food,2025-11-20 21:00:00
+RV00413,O02741,2,Fast delivery and tasty food,2025-07-04 11:00:00
+RV00414,O03290,4,Food was good but delivery was slow,2025-08-07 12:00:00
+RV00415,O04087,4,Excellent experience,2025-05-11 07:00:00
+RV00416,O01799,3,Order arrived late,2025-12-02 18:00:00
+RV00417,O04941,5,Excellent experience,2025-10-09 09:00:00
+RV00418,O01008,3,Packaging could be improved,2025-03-10 10:00:00
+RV00419,O01391,3,Excellent experience,2025-06-22 19:00:00
+RV00420,O02621,1,Order arrived late,2025-10-30 01:00:00
+RV00421,O02991,2,Food was good but delivery was slow,2025-09-30 15:00:00
+RV00422,O00990,2,Food was good but delivery was slow,2025-03-17 10:00:00
+RV00423,O03509,4,Packaging could be improved,2025-10-13 00:00:00
+RV00424,O02078,5,Order arrived late,2025-11-28 20:00:00
+RV00425,O03808,2,Food was good but delivery was slow,2025-03-13 11:00:00
+RV00426,O03618,2,Packaging could be improved,2025-09-27 19:00:00
+RV00427,O02808,5,Excellent experience,2025-05-14 21:00:00
+RV00428,O01835,2,Order arrived late,2025-12-23 05:00:00
+RV00429,O00701,1,Food was good but delivery was slow,2025-06-29 11:00:00
+RV00430,O03091,2,Order arrived late,2025-05-02 21:00:00
+RV00431,O04874,1,Food was good but delivery was slow,2025-07-19 23:00:00
+RV00432,O04798,3,Great restaurant and service,2025-09-10 17:00:00
+RV00433,O04078,3,Food was good but delivery was slow,2025-07-29 22:00:00
+RV00434,O01952,1,Order arrived late,2025-03-16 15:00:00
+RV00435,O01446,4,Food was good but delivery was slow,2025-06-25 08:00:00
+RV00436,O04990,1,Excellent experience,2025-07-28 00:00:00
+RV00437,O04141,4,Packaging could be improved,2025-08-10 01:00:00
+RV00438,O03694,5,Great restaurant and service,2025-10-28 02:00:00
+RV00439,O03626,5,Fast delivery and tasty food,2025-08-25 16:00:00
+RV00440,O01540,1,Order arrived late,2025-07-27 13:00:00
+RV00441,O03563,4,Order arrived late,2025-12-11 23:00:00
+RV00442,O04781,3,Packaging could be improved,2025-05-06 08:00:00
+RV00443,O02153,1,Excellent experience,2025-10-18 18:00:00
+RV00444,O01723,1,Fast delivery and tasty food,2025-08-23 15:00:00
+RV00445,O02422,4,Excellent experience,2025-02-04 01:00:00
+RV00446,O00852,5,Order arrived late,2025-06-03 06:00:00
+RV00447,O01656,3,Fast delivery and tasty food,2025-01-08 14:00:00
+RV00448,O04586,4,Food was good but delivery was slow,2025-02-24 10:00:00
+RV00449,O04699,4,Great restaurant and service,2025-06-05 07:00:00
+RV00450,O02849,3,Order arrived late,2025-10-14 18:00:00
+RV00451,O03926,1,Excellent experience,2025-04-11 04:00:00
+RV00452,O01509,1,Packaging could be improved,2025-03-28 01:00:00
+RV00453,O03470,2,Food was good but delivery was slow,2025-11-21 23:00:00
+RV00454,O03369,3,Fast delivery and tasty food,2025-11-20 22:00:00
+RV00455,O03946,4,Order arrived late,2025-08-03 10:00:00
+RV00456,O03593,2,Packaging could be improved,2025-11-07 05:00:00
+RV00457,O03017,2,Packaging could be improved,2025-08-09 08:00:00
+RV00458,O03976,2,Excellent experience,2025-01-11 12:00:00
+RV00459,O02460,1,Great restaurant and service,2025-09-10 08:00:00
+RV00460,O01221,5,Packaging could be improved,2025-07-18 18:00:00
+RV00461,O02251,2,Excellent experience,2025-04-07 05:00:00
+RV00462,O04559,4,Fast delivery and tasty food,2025-11-27 14:00:00
+RV00463,O01561,1,Order arrived late,2025-06-14 15:00:00
+RV00464,O00847,5,Fast delivery and tasty food,2025-03-03 12:00:00
+RV00465,O00407,5,Great restaurant and service,2025-08-22 01:00:00
+RV00466,O02708,2,Excellent experience,2025-02-26 15:00:00
+RV00467,O00506,2,Fast delivery and tasty food,2025-05-20 09:00:00
+RV00468,O04074,1,Order arrived late,2025-04-17 02:00:00
+RV00469,O01024,2,Order arrived late,2025-07-13 03:00:00
+RV00470,O00671,1,Packaging could be improved,2025-04-22 14:00:00
+RV00471,O02584,5,Great restaurant and service,2025-01-14 21:00:00
+RV00472,O03307,4,Excellent experience,2025-06-18 13:00:00
+RV00473,O03063,4,Fast delivery and tasty food,2025-10-30 23:00:00
+RV00474,O03184,3,Packaging could be improved,2025-03-01 17:00:00
+RV00475,O04582,3,Packaging could be improved,2025-03-22 18:00:00
+RV00476,O02167,3,Fast delivery and tasty food,2025-10-18 02:00:00
+RV00477,O04031,4,Excellent experience,2025-04-08 02:00:00
+RV00478,O03630,2,Excellent experience,2025-06-08 17:00:00
+RV00479,O00626,1,Great restaurant and service,2025-11-29 08:00:00
+RV00480,O02407,4,Order arrived late,2025-12-18 10:00:00
+RV00481,O03118,3,Excellent experience,2025-12-22 14:00:00
+RV00482,O03283,3,Packaging could be improved,2025-06-12 04:00:00
+RV00483,O04035,2,Order arrived late,2025-10-10 12:00:00
+RV00484,O04577,3,Food was good but delivery was slow,2025-07-19 04:00:00
+RV00485,O00205,3,Order arrived late,2025-08-08 22:00:00
+RV00486,O00684,1,Packaging could be improved,2025-03-14 06:00:00
+RV00487,O01535,2,Great restaurant and service,2025-06-16 02:00:00
+RV00488,O01280,5,Fast delivery and tasty food,2025-10-12 14:00:00
+RV00489,O02653,5,Fast delivery and tasty food,2025-12-08 00:00:00
+RV00490,O00758,3,Great restaurant and service,2025-03-21 22:00:00
+RV00491,O02980,3,Great restaurant and service,2025-11-30 17:00:00
+RV00492,O02897,1,Fast delivery and tasty food,2025-03-27 07:00:00
+RV00493,O02045,5,Packaging could be improved,2025-10-03 04:00:00
+RV00494,O00353,2,Great restaurant and service,2025-03-16 20:00:00
+RV00495,O02880,2,Order arrived late,2025-05-12 13:00:00
+RV00496,O00267,4,Fast delivery and tasty food,2025-09-03 03:00:00
+RV00497,O04752,4,Excellent experience,2025-11-16 14:00:00
+RV00498,O02311,2,Food was good but delivery was slow,2025-10-03 21:00:00
+RV00499,O00871,4,Fast delivery and tasty food,2025-06-06 15:00:00
+RV00500,O04324,1,Great restaurant and service,2025-02-27 18:00:00
+RV00501,O02370,3,Fast delivery and tasty food,2025-03-17 21:00:00
+RV00502,O00820,2,Food was good but delivery was slow,2025-10-10 02:00:00
+RV00503,O02453,5,Excellent experience,2025-03-14 14:00:00
+RV00504,O02625,5,Food was good but delivery was slow,2025-04-27 06:00:00
+RV00505,O00964,2,Fast delivery and tasty food,2025-09-27 14:00:00
+RV00506,O02444,4,Fast delivery and tasty food,2025-11-14 21:00:00
+RV00507,O01884,4,Order arrived late,2025-01-15 01:00:00
+RV00508,O00500,2,Great restaurant and service,2025-11-11 08:00:00
+RV00509,O04326,2,Packaging could be improved,2025-03-24 21:00:00
+RV00510,O04391,2,Order arrived late,2025-09-21 23:00:00
+RV00511,O03206,1,Order arrived late,2025-04-13 21:00:00
+RV00512,O01961,5,Order arrived late,2025-08-30 08:00:00
+RV00513,O02817,1,Order arrived late,2025-09-29 04:00:00
+RV00514,O02056,1,Order arrived late,2025-02-07 08:00:00
+RV00515,O02390,3,Excellent experience,2025-05-16 02:00:00
+RV00516,O01894,1,Great restaurant and service,2025-02-10 05:00:00
+RV00517,O01078,5,Packaging could be improved,2025-12-13 06:00:00
+RV00518,O01113,4,Packaging could be improved,2025-02-11 03:00:00
+RV00519,O01609,5,Great restaurant and service,2025-09-17 17:00:00
+RV00520,O03102,2,Packaging could be improved,2025-09-22 06:00:00
+RV00521,O01645,2,Excellent experience,2025-11-05 14:00:00
+RV00522,O01132,2,Excellent experience,2025-02-18 15:00:00
+RV00523,O02223,1,Great restaurant and service,2025-07-14 14:00:00
+RV00524,O00667,3,Excellent experience,2025-03-03 09:00:00
+RV00525,O02649,4,Fast delivery and tasty food,2025-10-04 08:00:00
+RV00526,O01866,1,Packaging could be improved,2025-12-15 13:00:00
+RV00527,O03578,2,Food was good but delivery was slow,2025-04-08 14:00:00
+RV00528,O00321,5,Order arrived late,2025-06-14 19:00:00
+RV00529,O01403,2,Fast delivery and tasty food,2025-09-01 18:00:00
+RV00530,O03872,5,Fast delivery and tasty food,2025-01-15 13:00:00
+RV00531,O01598,4,Order arrived late,2025-09-22 00:00:00
+RV00532,O01285,2,Fast delivery and tasty food,2025-01-19 15:00:00
+RV00533,O00348,4,Excellent experience,2025-03-28 00:00:00
+RV00534,O02622,2,Fast delivery and tasty food,2025-09-23 17:00:00
+RV00535,O02140,2,Packaging could be improved,2025-09-07 00:00:00
+RV00536,O00740,5,Packaging could be improved,2025-04-20 07:00:00
+RV00537,O03100,3,Great restaurant and service,2025-02-09 09:00:00
+RV00538,O03840,5,Great restaurant and service,2025-09-18 09:00:00
+RV00539,O01418,1,Food was good but delivery was slow,2025-10-29 01:00:00
+RV00540,O02589,4,Packaging could be improved,2025-04-05 21:00:00
+RV00541,O00206,4,Order arrived late,2025-01-22 10:00:00
+RV00542,O00646,3,Order arrived late,2025-03-28 02:00:00
+RV00543,O01538,2,Packaging could be improved,2025-04-19 02:00:00
+RV00544,O02059,4,Excellent experience,2025-02-10 07:00:00
+RV00545,O02638,3,Packaging could be improved,2025-06-12 17:00:00
+RV00546,O04984,1,Excellent experience,2025-09-14 00:00:00
+RV00547,O00639,4,Great restaurant and service,2025-06-24 00:00:00
+RV00548,O01865,1,Order arrived late,2025-02-04 11:00:00
+RV00549,O04236,5,Packaging could be improved,2025-02-24 07:00:00
+RV00550,O03304,4,Great restaurant and service,2025-08-11 18:00:00
+RV00551,O01054,4,Food was good but delivery was slow,2025-08-15 06:00:00
+RV00552,O00992,2,Order arrived late,2025-11-04 02:00:00
+RV00553,O04872,1,Food was good but delivery was slow,2025-12-05 13:00:00
+RV00554,O00771,5,Order arrived late,2025-05-26 06:00:00
+RV00555,O01298,3,Fast delivery and tasty food,2025-09-28 01:00:00
+RV00556,O01299,5,Great restaurant and service,2025-06-24 02:00:00
+RV00557,O02112,4,Fast delivery and tasty food,2025-05-14 15:00:00
+RV00558,O00564,1,Fast delivery and tasty food,2025-04-03 18:00:00
+RV00559,O04884,4,Food was good but delivery was slow,2025-11-07 22:00:00
+RV00560,O04036,3,Excellent experience,2025-11-26 20:00:00
+RV00561,O01573,3,Order arrived late,2025-09-24 07:00:00
+RV00562,O04697,4,Fast delivery and tasty food,2025-09-05 09:00:00
+RV00563,O01215,4,Food was good but delivery was slow,2025-11-07 18:00:00
+RV00564,O03454,4,Order arrived late,2025-01-04 11:00:00
+RV00565,O02145,1,Fast delivery and tasty food,2025-06-30 14:00:00
+RV00566,O02193,2,Fast delivery and tasty food,2025-08-02 00:00:00
+RV00567,O03730,3,Fast delivery and tasty food,2025-05-09 21:00:00
+RV00568,O04610,1,Food was good but delivery was slow,2025-10-24 06:00:00
+RV00569,O03797,3,Excellent experience,2025-07-12 21:00:00
+RV00570,O01134,4,Great restaurant and service,2025-10-10 13:00:00
+RV00571,O03638,3,Great restaurant and service,2025-09-26 03:00:00
+RV00572,O00513,5,Fast delivery and tasty food,2025-02-20 01:00:00
+RV00573,O01938,3,Fast delivery and tasty food,2025-05-16 11:00:00
+RV00574,O02784,5,Excellent experience,2025-11-18 17:00:00
+RV00575,O04572,1,Great restaurant and service,2025-05-29 15:00:00
+RV00576,O04098,1,Excellent experience,2025-12-03 16:00:00
+RV00577,O02910,5,Packaging could be improved,2025-12-04 11:00:00
+RV00578,O03607,3,Fast delivery and tasty food,2025-05-15 16:00:00
+RV00579,O01245,1,Great restaurant and service,2025-08-21 10:00:00
+RV00580,O01845,3,Order arrived late,2025-10-31 15:00:00
+RV00581,O00463,2,Packaging could be improved,2025-12-10 11:00:00
+RV00582,O00084,2,Order arrived late,2025-03-26 08:00:00
+RV00583,O03915,5,Excellent experience,2025-07-31 21:00:00
+RV00584,O00160,5,Great restaurant and service,2025-12-24 22:00:00
+RV00585,O01339,3,Packaging could be improved,2025-07-29 17:00:00
+RV00586,O02007,2,Food was good but delivery was slow,2025-08-31 06:00:00
+RV00587,O00577,2,Packaging could be improved,2025-11-05 12:00:00
+RV00588,O01790,5,Packaging could be improved,2025-10-05 18:00:00
+RV00589,O04385,4,Excellent experience,2025-04-09 17:00:00
+RV00590,O04650,3,Fast delivery and tasty food,2025-02-27 11:00:00
+RV00591,O01633,3,Excellent experience,2025-02-21 15:00:00
+RV00592,O02768,1,Excellent experience,2025-11-19 15:00:00
+RV00593,O00262,5,Excellent experience,2025-03-05 03:00:00
+RV00594,O01620,1,Order arrived late,2025-07-05 18:00:00
+RV00595,O03272,4,Great restaurant and service,2025-12-10 22:00:00
+RV00596,O03522,1,Food was good but delivery was slow,2025-06-07 06:00:00
+RV00597,O03041,4,Order arrived late,2025-07-27 02:00:00
+RV00598,O03072,1,Packaging could be improved,2025-11-28 07:00:00
+RV00599,O01976,5,Excellent experience,2025-04-02 10:00:00
+RV00600,O00552,4,Great restaurant and service,2025-07-01 20:00:00
+RV00601,O02323,3,Fast delivery and tasty food,2025-04-01 11:00:00
+RV00602,O03698,5,Excellent experience,2025-07-09 19:00:00
+RV00603,O03083,5,Order arrived late,2025-11-06 08:00:00
+RV00604,O03870,2,Great restaurant and service,2025-03-18 19:00:00
+RV00605,O01950,3,Food was good but delivery was slow,2025-02-16 12:00:00
+RV00606,O04073,1,Order arrived late,2025-09-17 09:00:00
+RV00607,O01780,5,Excellent experience,2025-04-12 21:00:00
+RV00608,O00709,1,Great restaurant and service,2025-03-31 15:00:00
+RV00609,O02852,5,Food was good but delivery was slow,2025-03-04 23:00:00
+RV00610,O03144,3,Fast delivery and tasty food,2025-08-12 02:00:00
+RV00611,O01050,5,Order arrived late,2025-06-06 13:00:00
+RV00612,O00941,1,Great restaurant and service,2025-07-14 17:00:00
+RV00613,O04521,1,Order arrived late,2025-10-31 13:00:00
+RV00614,O01849,3,Great restaurant and service,2025-11-09 03:00:00
+RV00615,O03342,1,Packaging could be improved,2025-12-20 10:00:00
+RV00616,O03073,4,Great restaurant and service,2025-08-02 12:00:00
+RV00617,O00152,5,Food was good but delivery was slow,2025-01-27 16:00:00
+RV00618,O03404,4,Order arrived late,2025-12-14 14:00:00
+RV00619,O00076,2,Packaging could be improved,2025-04-28 02:00:00
+RV00620,O01650,2,Fast delivery and tasty food,2025-10-13 02:00:00
+RV00621,O02918,5,Great restaurant and service,2025-09-28 11:00:00
+RV00622,O02041,1,Order arrived late,2025-07-03 18:00:00
+RV00623,O04879,3,Order arrived late,2025-09-28 08:00:00
+RV00624,O02875,2,Excellent experience,2025-09-06 19:00:00
+RV00625,O03802,1,Order arrived late,2025-05-17 00:00:00
+RV00626,O01220,3,Fast delivery and tasty food,2025-01-26 13:00:00
+RV00627,O00607,5,Great restaurant and service,2025-03-02 09:00:00
+RV00628,O04784,1,Packaging could be improved,2025-08-27 04:00:00
+RV00629,O01273,4,Great restaurant and service,2025-02-27 06:00:00
+RV00630,O03873,5,Food was good but delivery was slow,2025-09-02 09:00:00
+RV00631,O00695,2,Fast delivery and tasty food,2025-04-26 17:00:00
+RV00632,O02539,5,Food was good but delivery was slow,2025-04-25 14:00:00
+RV00633,O04414,5,Fast delivery and tasty food,2025-02-05 08:00:00
+RV00634,O04052,3,Great restaurant and service,2025-09-28 04:00:00
+RV00635,O01576,2,Great restaurant and service,2025-01-08 00:00:00
+RV00636,O01731,3,Packaging could be improved,2025-03-29 21:00:00
+RV00637,O00061,5,Excellent experience,2025-02-23 09:00:00
+RV00638,O04630,1,Packaging could be improved,2025-08-22 21:00:00
+RV00639,O02686,4,Great restaurant and service,2025-01-27 08:00:00
+RV00640,O01011,4,Food was good but delivery was slow,2025-12-31 21:00:00
+RV00641,O04291,3,Food was good but delivery was slow,2025-02-21 16:00:00
+RV00642,O01595,1,Great restaurant and service,2025-06-02 11:00:00
+RV00643,O03695,4,Order arrived late,2025-08-31 02:00:00
+RV00644,O03518,1,Great restaurant and service,2025-11-06 00:00:00
+RV00645,O02538,3,Excellent experience,2025-04-29 14:00:00
+RV00646,O01528,2,Packaging could be improved,2025-08-25 06:00:00
+RV00647,O04948,1,Great restaurant and service,2025-08-15 13:00:00
+RV00648,O00968,1,Packaging could be improved,2025-09-02 01:00:00
+RV00649,O03963,2,Food was good but delivery was slow,2025-01-20 11:00:00
+RV00650,O04076,5,Excellent experience,2025-12-10 10:00:00
+RV00651,O00719,5,Packaging could be improved,2025-03-18 20:00:00
+RV00652,O01958,5,Excellent experience,2025-06-17 21:00:00
+RV00653,O01412,3,Excellent experience,2025-03-06 10:00:00
+RV00654,O03355,5,Packaging could be improved,2025-01-15 07:00:00
+RV00655,O00743,3,Great restaurant and service,2025-11-02 09:00:00
+RV00656,O01841,2,Excellent experience,2025-06-15 04:00:00
+RV00657,O04767,1,Great restaurant and service,2025-12-02 18:00:00
+RV00658,O02118,4,Fast delivery and tasty food,2025-12-28 05:00:00
+RV00659,O00976,4,Food was good but delivery was slow,2025-12-18 08:00:00
+RV00660,O04134,3,Excellent experience,2025-01-06 08:00:00
+RV00661,O02537,3,Excellent experience,2025-10-28 15:00:00
+RV00662,O03215,1,Fast delivery and tasty food,2025-03-03 03:00:00
+RV00663,O00761,2,Order arrived late,2025-09-27 14:00:00
+RV00664,O01687,1,Excellent experience,2025-08-07 02:00:00
+RV00665,O02878,3,Packaging could be improved,2025-11-29 21:00:00
+RV00666,O03138,1,Great restaurant and service,2025-04-29 15:00:00
+RV00667,O01213,3,Great restaurant and service,2025-06-17 21:00:00
+RV00668,O03384,4,Order arrived late,2025-09-01 21:00:00
+RV00669,O04748,1,Great restaurant and service,2025-01-30 19:00:00
+RV00670,O01848,2,Great restaurant and service,2025-10-11 21:00:00
+RV00671,O00291,4,Great restaurant and service,2025-05-23 01:00:00
+RV00672,O00184,2,Order arrived late,2025-05-31 21:00:00
+RV00673,O04911,2,Fast delivery and tasty food,2025-08-02 20:00:00
+RV00674,O04008,3,Packaging could be improved,2025-04-11 01:00:00
+RV00675,O01589,2,Great restaurant and service,2025-12-05 19:00:00
+RV00676,O01111,5,Order arrived late,2025-05-17 06:00:00
+RV00677,O00058,2,Excellent experience,2025-04-05 23:00:00
+RV00678,O03201,1,Fast delivery and tasty food,2025-02-09 06:00:00
+RV00679,O02394,3,Fast delivery and tasty food,2025-03-19 10:00:00
+RV00680,O01164,3,Fast delivery and tasty food,2025-08-13 00:00:00
+RV00681,O04210,5,Great restaurant and service,2025-06-15 19:00:00
+RV00682,O01916,3,Food was good but delivery was slow,2025-09-15 12:00:00
+RV00683,O01738,3,Order arrived late,2025-02-25 03:00:00
+RV00684,O00797,4,Great restaurant and service,2025-10-04 09:00:00
+RV00685,O04807,4,Packaging could be improved,2025-06-12 03:00:00
+RV00686,O03264,4,Packaging could be improved,2025-04-24 09:00:00
+RV00687,O02238,5,Food was good but delivery was slow,2025-11-01 10:00:00
+RV00688,O02209,3,Great restaurant and service,2025-05-05 03:00:00
+RV00689,O01353,3,Excellent experience,2025-06-20 05:00:00
+RV00690,O00495,3,Order arrived late,2025-07-30 16:00:00
+RV00691,O04261,2,Fast delivery and tasty food,2025-12-31 08:00:00
+RV00692,O02180,3,Food was good but delivery was slow,2025-12-23 19:00:00
+RV00693,O02906,3,Food was good but delivery was slow,2025-04-11 17:00:00
+RV00694,O00978,1,Order arrived late,2025-03-26 02:00:00
+RV00695,O02264,1,Packaging could be improved,2025-05-11 21:00:00
+RV00696,O01328,3,Great restaurant and service,2025-06-18 07:00:00
+RV00697,O00325,2,Order arrived late,2025-06-10 23:00:00
+RV00698,O01997,2,Packaging could be improved,2025-08-08 07:00:00
+RV00699,O01625,5,Order arrived late,2025-10-29 09:00:00
+RV00700,O04049,5,Packaging could be improved,2025-02-01 10:00:00
+RV00701,O04567,3,Great restaurant and service,2025-09-28 14:00:00
+RV00702,O04183,4,Food was good but delivery was slow,2025-10-01 09:00:00
+RV00703,O00705,2,Packaging could be improved,2025-01-23 02:00:00
+RV00704,O01957,4,Order arrived late,2025-03-08 17:00:00
+RV00705,O01954,5,Excellent experience,2025-05-16 19:00:00
+RV00706,O01750,2,Order arrived late,2025-09-10 14:00:00
+RV00707,O02492,4,Food was good but delivery was slow,2025-10-06 12:00:00
+RV00708,O04773,3,Packaging could be improved,2025-12-17 05:00:00
+RV00709,O02191,4,Packaging could be improved,2025-05-04 08:00:00
+RV00710,O02791,5,Packaging could be improved,2025-02-24 19:00:00
+RV00711,O01026,2,Food was good but delivery was slow,2025-10-31 19:00:00
+RV00712,O03265,2,Great restaurant and service,2025-12-20 18:00:00
+RV00713,O00517,2,Order arrived late,2025-01-31 22:00:00
+RV00714,O01467,3,Packaging could be improved,2025-01-30 14:00:00
+RV00715,O04892,2,Excellent experience,2025-07-31 16:00:00
+RV00716,O04758,4,Great restaurant and service,2025-10-26 17:00:00
+RV00717,O03647,1,Excellent experience,2025-03-11 04:00:00
+RV00718,O04334,1,Fast delivery and tasty food,2025-03-11 12:00:00
+RV00719,O04457,3,Excellent experience,2025-02-01 17:00:00
+RV00720,O03084,4,Fast delivery and tasty food,2025-02-26 11:00:00
+RV00721,O01062,3,Packaging could be improved,2025-12-18 17:00:00
+RV00722,O01379,1,Food was good but delivery was slow,2025-11-18 19:00:00
+RV00723,O00462,2,Food was good but delivery was slow,2025-12-23 17:00:00
+RV00724,O02541,1,Food was good but delivery was slow,2025-10-14 11:00:00
+RV00725,O03761,1,Packaging could be improved,2025-11-22 01:00:00
+RV00726,O00471,1,Packaging could be improved,2025-04-21 03:00:00
+RV00727,O04976,3,Order arrived late,2025-06-09 20:00:00
+RV00728,O02844,5,Great restaurant and service,2025-04-24 01:00:00
+RV00729,O04552,3,Excellent experience,2025-09-22 00:00:00
+RV00730,O02851,5,Packaging could be improved,2025-04-20 23:00:00
+RV00731,O00085,3,Excellent experience,2025-04-05 22:00:00
+RV00732,O04230,1,Food was good but delivery was slow,2025-11-14 23:00:00
+RV00733,O01135,2,Excellent experience,2025-08-02 13:00:00
+RV00734,O02843,4,Order arrived late,2025-03-12 22:00:00
+RV00735,O02335,5,Food was good but delivery was slow,2025-03-18 10:00:00
+RV00736,O02723,3,Excellent experience,2025-10-20 22:00:00
+RV00737,O01423,2,Order arrived late,2025-03-04 22:00:00
+RV00738,O04960,4,Great restaurant and service,2025-02-19 14:00:00
+RV00739,O00183,2,Excellent experience,2025-11-16 17:00:00
+RV00740,O01358,5,Order arrived late,2025-12-06 15:00:00
+RV00741,O04844,5,Excellent experience,2025-04-05 14:00:00
+RV00742,O03531,4,Food was good but delivery was slow,2025-04-21 09:00:00
+RV00743,O00658,4,Food was good but delivery was slow,2025-04-19 03:00:00
+RV00744,O00988,5,Fast delivery and tasty food,2025-07-11 15:00:00
+RV00745,O00478,5,Order arrived late,2025-01-21 00:00:00
+RV00746,O01031,1,Excellent experience,2025-05-09 16:00:00
+RV00747,O02977,4,Great restaurant and service,2025-12-08 03:00:00
+RV00748,O00437,4,Excellent experience,2025-03-01 06:00:00
+RV00749,O04217,5,Excellent experience,2025-10-18 09:00:00
+RV00750,O03952,3,Packaging could be improved,2025-02-24 03:00:00
+RV00751,O02946,1,Order arrived late,2025-08-10 12:00:00
+RV00752,O01657,3,Excellent experience,2025-12-01 15:00:00
+RV00753,O01857,5,Fast delivery and tasty food,2025-07-15 01:00:00
+RV00754,O04820,1,Food was good but delivery was slow,2025-05-31 03:00:00
+RV00755,O02548,1,Packaging could be improved,2025-05-09 04:00:00
+RV00756,O01163,5,Packaging could be improved,2025-10-05 18:00:00
+RV00757,O00210,2,Food was good but delivery was slow,2025-07-09 15:00:00
+RV00758,O02058,2,Great restaurant and service,2025-04-25 12:00:00
+RV00759,O03397,4,Great restaurant and service,2025-12-17 01:00:00
+RV00760,O00685,5,Packaging could be improved,2025-03-08 00:00:00
+RV00761,O03375,5,Fast delivery and tasty food,2025-05-17 17:00:00
+RV00762,O04894,3,Fast delivery and tasty food,2025-05-22 11:00:00
+RV00763,O03535,5,Food was good but delivery was slow,2025-04-08 00:00:00
+RV00764,O00967,2,Order arrived late,2025-02-26 02:00:00
+RV00765,O03654,5,Great restaurant and service,2025-05-07 17:00:00
+RV00766,O03644,3,Packaging could be improved,2025-10-13 05:00:00
+RV00767,O01014,4,Excellent experience,2025-06-07 00:00:00
+RV00768,O03237,1,Great restaurant and service,2025-08-05 12:00:00
+RV00769,O00284,4,Excellent experience,2025-04-01 21:00:00
+RV00770,O01778,3,Fast delivery and tasty food,2025-03-30 14:00:00
+RV00771,O00542,5,Order arrived late,2025-03-05 15:00:00
+RV00772,O00883,2,Order arrived late,2025-02-08 02:00:00
+RV00773,O00352,5,Great restaurant and service,2025-10-26 06:00:00
+RV00774,O03610,1,Packaging could be improved,2025-04-29 16:00:00
+RV00775,O03821,2,Great restaurant and service,2025-10-09 08:00:00
+RV00776,O04399,4,Packaging could be improved,2025-07-15 11:00:00
+RV00777,O01165,3,Food was good but delivery was slow,2025-09-24 18:00:00
+RV00778,O01681,4,Fast delivery and tasty food,2025-02-06 04:00:00
+RV00779,O00450,1,Food was good but delivery was slow,2025-01-12 01:00:00
+RV00780,O00456,1,Food was good but delivery was slow,2025-10-29 22:00:00
+RV00781,O00433,5,Order arrived late,2025-03-13 09:00:00
+RV00782,O02454,5,Packaging could be improved,2025-11-27 08:00:00
+RV00783,O00326,5,Excellent experience,2025-08-26 04:00:00
+RV00784,O03145,1,Food was good but delivery was slow,2025-06-01 00:00:00
+RV00785,O01808,2,Fast delivery and tasty food,2025-08-18 13:00:00
+RV00786,O00888,4,Food was good but delivery was slow,2025-03-07 19:00:00
+RV00787,O00241,4,Excellent experience,2025-11-23 06:00:00
+RV00788,O03718,3,Excellent experience,2025-10-15 13:00:00
+RV00789,O02939,3,Fast delivery and tasty food,2025-05-23 17:00:00
+RV00790,O00526,2,Great restaurant and service,2025-02-17 12:00:00
+RV00791,O04443,5,Excellent experience,2025-09-04 23:00:00
+RV00792,O00015,5,Excellent experience,2025-12-31 19:00:00
+RV00793,O04871,2,Great restaurant and service,2025-01-15 19:00:00
+RV00794,O03602,4,Excellent experience,2025-04-19 23:00:00
+RV00795,O02985,5,Food was good but delivery was slow,2025-10-13 19:00:00
+RV00796,O03047,4,Fast delivery and tasty food,2025-05-31 18:00:00
+RV00797,O04033,1,Food was good but delivery was slow,2025-06-13 11:00:00
+RV00798,O04756,3,Great restaurant and service,2025-04-12 01:00:00
+RV00799,O04394,5,Fast delivery and tasty food,2025-09-12 02:00:00
+RV00800,O02268,3,Excellent experience,2025-07-26 02:00:00
+RV00801,O04445,2,Excellent experience,2025-08-24 10:00:00
+RV00802,O03036,1,Packaging could be improved,2025-02-06 06:00:00
+RV00803,O00432,5,Excellent experience,2025-09-12 03:00:00
+RV00804,O03416,5,Fast delivery and tasty food,2025-02-01 15:00:00
+RV00805,O03526,4,Order arrived late,2025-05-08 16:00:00
+RV00806,O01102,3,Fast delivery and tasty food,2025-04-01 17:00:00
+RV00807,O03426,1,Excellent experience,2025-01-21 00:00:00
+RV00808,O00094,4,Excellent experience,2025-05-07 14:00:00
+RV00809,O04152,1,Order arrived late,2025-04-07 12:00:00
+RV00810,O01705,1,Excellent experience,2025-07-18 19:00:00
+RV00811,O01372,2,Packaging could be improved,2025-12-20 05:00:00
+RV00812,O00349,2,Order arrived late,2025-06-29 14:00:00
+RV00813,O01061,4,Food was good but delivery was slow,2025-03-12 15:00:00
+RV00814,O03235,4,Great restaurant and service,2025-08-19 04:00:00
+RV00815,O00503,4,Packaging could be improved,2025-08-28 17:00:00
+RV00816,O03785,1,Fast delivery and tasty food,2025-06-16 11:00:00
+RV00817,O01529,5,Great restaurant and service,2025-07-02 14:00:00
+RV00818,O02798,2,Great restaurant and service,2025-10-03 05:00:00
+RV00819,O02376,5,Packaging could be improved,2025-02-26 11:00:00
+RV00820,O04599,3,Packaging could be improved,2025-11-02 02:00:00
+RV00821,O04861,2,Excellent experience,2025-08-30 22:00:00
+RV00822,O01183,3,Food was good but delivery was slow,2025-06-14 02:00:00
+RV00823,O00389,3,Order arrived late,2025-09-09 20:00:00
+RV00824,O04485,4,Great restaurant and service,2025-02-17 14:00:00
+RV00825,O02185,1,Packaging could be improved,2025-09-24 19:00:00
+RV00826,O01937,5,Great restaurant and service,2025-03-16 22:00:00
+RV00827,O00132,3,Excellent experience,2025-05-04 18:00:00
+RV00828,O00572,4,Packaging could be improved,2025-10-24 01:00:00
+RV00829,O04403,1,Food was good but delivery was slow,2025-02-23 03:00:00
+RV00830,O01639,2,Order arrived late,2025-05-30 04:00:00
+RV00831,O03772,3,Excellent experience,2025-10-31 05:00:00
+RV00832,O04242,4,Packaging could be improved,2025-10-06 16:00:00
+RV00833,O02929,4,Food was good but delivery was slow,2025-02-07 17:00:00
+RV00834,O02002,4,Fast delivery and tasty food,2025-01-03 17:00:00
+RV00835,O01742,2,Fast delivery and tasty food,2025-07-31 20:00:00
+RV00836,O03268,1,Food was good but delivery was slow,2025-05-03 05:00:00
+RV00837,O03346,5,Great restaurant and service,2025-05-17 09:00:00
+RV00838,O04084,5,Order arrived late,2025-06-27 15:00:00
+RV00839,O03649,3,Packaging could be improved,2025-02-03 15:00:00
+RV00840,O04965,1,Packaging could be improved,2025-10-13 18:00:00
+RV00841,O03659,3,Food was good but delivery was slow,2025-11-29 13:00:00
+RV00842,O03001,5,Packaging could be improved,2025-04-08 22:00:00
+RV00843,O04289,2,Order arrived late,2025-03-19 08:00:00
+RV00844,O01112,1,Food was good but delivery was slow,2025-05-17 05:00:00
+RV00845,O04750,1,Great restaurant and service,2025-06-28 09:00:00
+RV00846,O04200,3,Fast delivery and tasty food,2025-03-04 02:00:00
+RV00847,O00851,3,Fast delivery and tasty food,2025-11-04 00:00:00
+RV00848,O02739,2,Excellent experience,2025-09-05 00:00:00
+RV00849,O00209,1,Great restaurant and service,2025-11-04 13:00:00
+RV00850,O04980,5,Great restaurant and service,2025-07-27 09:00:00
+RV00851,O03911,5,Fast delivery and tasty food,2025-05-21 14:00:00
+RV00852,O02314,4,Packaging could be improved,2025-07-07 21:00:00
+RV00853,O00106,5,Order arrived late,2025-10-14 03:00:00
+RV00854,O02192,4,Order arrived late,2025-06-12 12:00:00
+RV00855,O01711,4,Excellent experience,2025-02-05 03:00:00
+RV00856,O01105,3,Great restaurant and service,2025-01-15 19:00:00
+RV00857,O00040,5,Packaging could be improved,2025-03-26 19:00:00
+RV00858,O02503,4,Great restaurant and service,2025-05-23 16:00:00
+RV00859,O01139,5,Food was good but delivery was slow,2025-11-02 05:00:00
+RV00860,O04989,5,Excellent experience,2025-02-04 02:00:00
+RV00861,O03299,5,Packaging could be improved,2025-07-07 03:00:00
+RV00862,O03093,2,Food was good but delivery was slow,2025-08-14 10:00:00
+RV00863,O03499,4,Fast delivery and tasty food,2025-01-04 13:00:00
+RV00864,O02229,5,Fast delivery and tasty food,2025-02-20 05:00:00
+RV00865,O03906,3,Food was good but delivery was slow,2025-06-07 16:00:00
+RV00866,O04554,2,Excellent experience,2025-09-28 17:00:00
+RV00867,O01475,4,Food was good but delivery was slow,2025-11-24 11:00:00
+RV00868,O01219,1,Great restaurant and service,2025-06-25 22:00:00
+RV00869,O04489,4,Packaging could be improved,2025-03-10 21:00:00
+RV00870,O03529,2,Great restaurant and service,2025-12-02 11:00:00
+RV00871,O04729,3,Great restaurant and service,2025-04-10 05:00:00
+RV00872,O00053,2,Food was good but delivery was slow,2025-01-18 00:00:00
+RV00873,O04255,5,Packaging could be improved,2025-10-30 10:00:00
+RV00874,O01930,2,Packaging could be improved,2025-08-05 09:00:00
+RV00875,O02477,1,Fast delivery and tasty food,2025-04-12 05:00:00
+RV00876,O01046,1,Packaging could be improved,2025-10-05 07:00:00
+RV00877,O04122,5,Order arrived late,2025-04-02 17:00:00
+RV00878,O03341,5,Great restaurant and service,2025-12-01 18:00:00
+RV00879,O03794,1,Fast delivery and tasty food,2025-05-18 11:00:00
+RV00880,O04744,3,Great restaurant and service,2025-01-05 16:00:00
+RV00881,O04448,2,Fast delivery and tasty food,2025-03-26 14:00:00
+RV00882,O02275,1,Food was good but delivery was slow,2025-06-12 23:00:00
+RV00883,O04805,5,Packaging could be improved,2025-10-14 15:00:00
+RV00884,O00169,5,Great restaurant and service,2025-04-10 07:00:00
+RV00885,O01807,3,Food was good but delivery was slow,2025-11-23 20:00:00
+RV00886,O01424,4,Packaging could be improved,2025-03-17 03:00:00
+RV00887,O00766,5,Fast delivery and tasty food,2025-10-07 12:00:00
+RV00888,O03651,3,Order arrived late,2025-11-23 01:00:00
+RV00889,O01752,1,Great restaurant and service,2025-03-18 22:00:00
+RV00890,O00728,4,Fast delivery and tasty food,2025-09-13 18:00:00
+RV00891,O00018,1,Excellent experience,2025-06-17 17:00:00
+RV00892,O03095,3,Food was good but delivery was slow,2025-02-01 09:00:00
+RV00893,O00754,1,Order arrived late,2025-03-22 02:00:00
+RV00894,O04753,2,Food was good but delivery was slow,2025-12-29 20:00:00
+RV00895,O00047,3,Packaging could be improved,2025-08-27 04:00:00
+RV00896,O03743,4,Food was good but delivery was slow,2025-12-02 08:00:00
+RV00897,O04384,5,Fast delivery and tasty food,2025-08-27 13:00:00
+RV00898,O01117,1,Fast delivery and tasty food,2025-07-26 22:00:00
+RV00899,O04672,3,Food was good but delivery was slow,2025-05-18 06:00:00
+RV00900,O01501,1,Packaging could be improved,2025-10-10 05:00:00
+RV00901,O04891,3,Packaging could be improved,2025-09-09 19:00:00
+RV00902,O01520,3,Order arrived late,2025-03-06 15:00:00
+RV00903,O02513,4,Fast delivery and tasty food,2025-07-13 04:00:00
+RV00904,O00678,1,Food was good but delivery was slow,2025-09-18 10:00:00
+RV00905,O03160,1,Order arrived late,2025-09-29 22:00:00
+RV00906,O00965,3,Excellent experience,2025-08-19 20:00:00
+RV00907,O01934,2,Order arrived late,2025-05-07 16:00:00
+RV00908,O03793,5,Great restaurant and service,2025-09-16 19:00:00
+RV00909,O02579,5,Excellent experience,2025-08-12 08:00:00
+RV00910,O04862,2,Excellent experience,2025-05-12 15:00:00
+RV00911,O03595,4,Order arrived late,2025-12-27 12:00:00
+RV00912,O00786,2,Fast delivery and tasty food,2025-08-09 20:00:00
+RV00913,O01419,2,Order arrived late,2025-09-03 01:00:00
+RV00914,O04778,4,Order arrived late,2025-12-24 01:00:00
+RV00915,O04154,3,Great restaurant and service,2025-01-22 04:00:00
+RV00916,O03728,1,Fast delivery and tasty food,2025-02-14 15:00:00
+RV00917,O00989,5,Fast delivery and tasty food,2025-11-20 02:00:00
+RV00918,O04184,5,Great restaurant and service,2025-11-05 07:00:00
+RV00919,O02443,5,Fast delivery and tasty food,2025-04-25 23:00:00
+RV00920,O02415,2,Fast delivery and tasty food,2025-06-02 01:00:00
+RV00921,O00995,3,Great restaurant and service,2025-12-27 08:00:00
+RV00922,O01963,3,Fast delivery and tasty food,2025-07-11 07:00:00
+RV00923,O00631,2,Great restaurant and service,2025-08-17 21:00:00
+RV00924,O04508,4,Fast delivery and tasty food,2025-10-07 18:00:00
+RV00925,O01646,4,Order arrived late,2025-04-07 22:00:00
+RV00926,O00987,3,Great restaurant and service,2025-08-06 14:00:00
+RV00927,O00258,2,Food was good but delivery was slow,2025-08-21 09:00:00
+RV00928,O00840,5,Food was good but delivery was slow,2025-04-19 16:00:00
+RV00929,O00228,1,Food was good but delivery was slow,2025-04-22 17:00:00
+RV00930,O04824,3,Order arrived late,2025-01-05 19:00:00
+RV00931,O01539,5,Fast delivery and tasty food,2025-11-20 18:00:00
+RV00932,O02227,3,Excellent experience,2025-09-14 15:00:00
+RV00933,O02757,1,Fast delivery and tasty food,2025-06-16 10:00:00
+RV00934,O01827,4,Packaging could be improved,2025-01-31 00:00:00
+RV00935,O00749,3,Fast delivery and tasty food,2025-07-07 23:00:00
+RV00936,O02179,2,Great restaurant and service,2025-11-23 02:00:00
+RV00937,O04440,4,Great restaurant and service,2025-06-12 00:00:00
+RV00938,O03807,4,Food was good but delivery was slow,2025-11-05 14:00:00
+RV00939,O03464,5,Fast delivery and tasty food,2025-06-25 20:00:00
+RV00940,O04642,2,Fast delivery and tasty food,2025-10-23 12:00:00
+RV00941,O01400,3,Great restaurant and service,2025-07-18 18:00:00
+RV00942,O01343,3,Packaging could be improved,2025-08-29 11:00:00
+RV00943,O03216,2,Excellent experience,2025-09-04 05:00:00
+RV00944,O03982,4,Excellent experience,2025-02-21 16:00:00
+RV00945,O03127,3,Food was good but delivery was slow,2025-06-27 16:00:00
+RV00946,O02680,3,Great restaurant and service,2025-07-08 10:00:00
+RV00947,O02670,3,Excellent experience,2025-01-30 10:00:00
+RV00948,O01077,1,Food was good but delivery was slow,2025-08-27 17:00:00
+RV00949,O00010,2,Order arrived late,2025-06-24 12:00:00
+RV00950,O01080,1,Packaging could be improved,2025-11-04 21:00:00
+RV00951,O03791,1,Fast delivery and tasty food,2025-09-21 19:00:00
+RV00952,O03527,5,Packaging could be improved,2025-10-08 18:00:00
+RV00953,O04495,3,Excellent experience,2025-09-26 10:00:00
+RV00954,O04939,1,Great restaurant and service,2025-08-26 13:00:00
+RV00955,O04005,2,Fast delivery and tasty food,2025-05-02 06:00:00
+RV00956,O02110,5,Packaging could be improved,2025-08-15 21:00:00
+RV00957,O01207,5,Packaging could be improved,2025-12-18 17:00:00
+RV00958,O04185,4,Great restaurant and service,2025-03-14 03:00:00
+RV00959,O01552,4,Great restaurant and service,2025-06-17 18:00:00
+RV00960,O01606,5,Food was good but delivery was slow,2025-04-05 01:00:00
+RV00961,O03419,2,Great restaurant and service,2025-09-16 19:00:00
+RV00962,O01310,1,Great restaurant and service,2025-02-08 00:00:00
+RV00963,O03279,4,Great restaurant and service,2025-11-07 12:00:00
+RV00964,O01590,1,Order arrived late,2025-01-25 10:00:00
+RV00965,O04878,2,Packaging could be improved,2025-03-16 19:00:00
+RV00966,O03428,1,Great restaurant and service,2025-09-25 18:00:00
+RV00967,O04819,5,Fast delivery and tasty food,2025-11-16 15:00:00
+RV00968,O02088,4,Order arrived late,2025-01-10 12:00:00
+RV00969,O04421,2,Order arrived late,2025-07-10 20:00:00
+RV00970,O01648,5,Great restaurant and service,2025-07-03 09:00:00
+RV00971,O00240,2,Fast delivery and tasty food,2025-11-06 05:00:00
+RV00972,O04794,4,Order arrived late,2025-09-13 17:00:00
+RV00973,O02822,1,Excellent experience,2025-03-29 04:00:00
+RV00974,O01337,2,Order arrived late,2025-06-24 10:00:00
+RV00975,O02239,4,Food was good but delivery was slow,2025-03-07 14:00:00
+RV00976,O03981,5,Order arrived late,2025-08-30 12:00:00
+RV00977,O03226,4,Packaging could be improved,2025-05-08 22:00:00
+RV00978,O03494,1,Great restaurant and service,2025-12-07 10:00:00
+RV00979,O03400,4,Order arrived late,2025-04-24 02:00:00
+RV00980,O03357,5,Food was good but delivery was slow,2025-01-29 12:00:00
+RV00981,O04738,5,Food was good but delivery was slow,2025-09-14 09:00:00
+RV00982,O02266,2,Great restaurant and service,2025-04-08 19:00:00
+RV00983,O03431,5,Order arrived late,2025-08-27 09:00:00
+RV00984,O03512,3,Excellent experience,2025-12-27 20:00:00
+RV00985,O04735,5,Order arrived late,2025-09-25 03:00:00
+RV00986,O04234,1,Fast delivery and tasty food,2025-02-08 12:00:00
+RV00987,O03757,5,Food was good but delivery was slow,2025-08-04 21:00:00
+RV00988,O01302,2,Order arrived late,2025-01-20 21:00:00
+RV00989,O00440,5,Excellent experience,2025-09-12 06:00:00
+RV00990,O00155,4,Excellent experience,2025-12-25 10:00:00
+RV00991,O01124,4,Excellent experience,2025-06-24 01:00:00
+RV00992,O03393,4,Packaging could be improved,2025-09-08 20:00:00
+RV00993,O04202,3,Packaging could be improved,2025-04-07 04:00:00
+RV00994,O01594,2,Packaging could be improved,2025-10-16 03:00:00
+RV00995,O04339,4,Great restaurant and service,2025-01-16 06:00:00
+RV00996,O04207,4,Fast delivery and tasty food,2025-03-01 16:00:00
+RV00997,O03722,4,Fast delivery and tasty food,2025-06-29 11:00:00
+RV00998,O02236,2,Great restaurant and service,2025-04-29 10:00:00
+RV00999,O04493,4,Order arrived late,2025-09-01 16:00:00
+RV01000,O04733,3,Packaging could be improved,2025-12-01 07:00:00
+RV01001,O03080,4,Packaging could be improved,2025-02-10 19:00:00
+RV01002,O00932,1,Fast delivery and tasty food,2025-01-08 00:00:00
+RV01003,O00074,3,Excellent experience,2025-07-26 02:00:00
+RV01004,O04580,1,Excellent experience,2025-08-13 16:00:00
+RV01005,O03263,4,Great restaurant and service,2025-02-23 19:00:00
+RV01006,O02090,4,Great restaurant and service,2025-09-15 13:00:00
+RV01007,O03098,2,Great restaurant and service,2025-06-18 14:00:00
+RV01008,O00634,1,Food was good but delivery was slow,2025-08-22 16:00:00
+RV01009,O04850,1,Great restaurant and service,2025-08-16 21:00:00
+RV01010,O04943,5,Order arrived late,2025-12-23 10:00:00
+RV01011,O02080,5,Order arrived late,2025-10-12 19:00:00
+RV01012,O00949,5,Packaging could be improved,2025-04-16 16:00:00
+RV01013,O00088,5,Fast delivery and tasty food,2025-12-13 23:00:00
+RV01014,O01171,1,Order arrived late,2025-11-02 04:00:00
+RV01015,O00419,2,Excellent experience,2025-10-31 16:00:00
+RV01016,O00190,5,Fast delivery and tasty food,2025-04-17 23:00:00
+RV01017,O00560,1,Packaging could be improved,2025-10-08 00:00:00
+RV01018,O02371,2,Great restaurant and service,2025-11-10 03:00:00
+RV01019,O03105,2,Packaging could be improved,2025-01-02 21:00:00
+RV01020,O02276,5,Order arrived late,2025-06-10 01:00:00
+RV01021,O00063,1,Order arrived late,2025-07-11 02:00:00
+RV01022,O01399,3,Great restaurant and service,2025-12-18 06:00:00
+RV01023,O01378,1,Food was good but delivery was slow,2025-08-25 13:00:00
+RV01024,O01288,2,Great restaurant and service,2025-09-22 18:00:00
+RV01025,O00619,4,Great restaurant and service,2025-07-21 03:00:00
+RV01026,O01059,5,Order arrived late,2025-12-25 07:00:00
+RV01027,O01282,2,Order arrived late,2025-10-23 03:00:00
+RV01028,O02559,3,Excellent experience,2025-05-14 03:00:00
+RV01029,O03917,3,Excellent experience,2025-04-21 18:00:00
+RV01030,O00300,3,Fast delivery and tasty food,2025-12-03 01:00:00
+RV01031,O02440,3,Order arrived late,2025-12-28 05:00:00
+RV01032,O04783,1,Order arrived late,2025-01-05 15:00:00
+RV01033,O00144,2,Packaging could be improved,2025-07-03 00:00:00
+RV01034,O01946,3,Excellent experience,2025-01-05 21:00:00
+RV01035,O03534,2,Packaging could be improved,2025-11-04 22:00:00
+RV01036,O03880,2,Order arrived late,2025-09-14 08:00:00
+RV01037,O01881,4,Excellent experience,2025-06-14 00:00:00
+RV01038,O03696,1,Order arrived late,2025-11-22 06:00:00
+RV01039,O03887,4,Food was good but delivery was slow,2025-12-30 18:00:00
+RV01040,O03844,5,Great restaurant and service,2025-09-27 22:00:00
+RV01041,O01883,5,Packaging could be improved,2025-03-29 08:00:00
+RV01042,O01398,5,Excellent experience,2025-08-15 16:00:00
+RV01043,O02197,4,Excellent experience,2025-04-16 13:00:00
+RV01044,O02754,2,Order arrived late,2025-11-30 12:00:00
+RV01045,O02675,5,Order arrived late,2025-12-15 18:00:00
+RV01046,O02599,5,Fast delivery and tasty food,2025-05-19 06:00:00
+RV01047,O02637,4,Fast delivery and tasty food,2025-06-05 10:00:00
+RV01048,O00939,2,Packaging could be improved,2025-06-24 20:00:00
+RV01049,O01450,5,Excellent experience,2025-08-18 03:00:00
+RV01050,O02993,1,Order arrived late,2025-10-03 01:00:00
+RV01051,O04117,5,Packaging could be improved,2025-10-09 09:00:00
+RV01052,O01308,4,Excellent experience,2025-11-13 04:00:00
+RV01053,O02671,4,Order arrived late,2025-11-24 18:00:00
+RV01054,O02438,1,Fast delivery and tasty food,2025-07-01 01:00:00
+RV01055,O00787,2,Excellent experience,2025-10-19 05:00:00
+RV01056,O00171,1,Order arrived late,2025-07-06 17:00:00
+RV01057,O04902,5,Packaging could be improved,2025-01-07 03:00:00
+RV01058,O01844,4,Packaging could be improved,2025-07-12 17:00:00
+RV01059,O00276,2,Food was good but delivery was slow,2025-04-28 10:00:00
+RV01060,O02302,5,Excellent experience,2025-02-28 20:00:00
+RV01061,O03891,1,Packaging could be improved,2025-02-03 11:00:00
+RV01062,O01816,5,Excellent experience,2025-02-18 09:00:00
+RV01063,O02452,1,Packaging could be improved,2025-03-08 01:00:00
+RV01064,O00170,3,Excellent experience,2025-06-01 20:00:00
+RV01065,O01506,3,Excellent experience,2025-08-13 00:00:00
+RV01066,O01898,4,Excellent experience,2025-03-26 07:00:00
+RV01067,O01746,2,Food was good but delivery was slow,2025-04-03 17:00:00
+RV01068,O00975,4,Fast delivery and tasty food,2025-03-05 22:00:00
+RV01069,O04355,5,Great restaurant and service,2025-01-03 19:00:00
+RV01070,O02660,3,Excellent experience,2025-10-12 13:00:00
+RV01071,O01733,4,Fast delivery and tasty food,2025-03-27 06:00:00
+RV01072,O01706,1,Great restaurant and service,2025-01-03 22:00:00
+RV01073,O03134,2,Fast delivery and tasty food,2025-09-20 07:00:00
+RV01074,O02728,3,Fast delivery and tasty food,2025-08-15 23:00:00
+RV01075,O03149,2,Packaging could be improved,2025-01-29 14:00:00
+RV01076,O03953,2,Order arrived late,2025-03-11 12:00:00
+RV01077,O00108,3,Great restaurant and service,2025-09-22 19:00:00
+RV01078,O01838,1,Fast delivery and tasty food,2025-06-26 07:00:00
+RV01079,O03180,1,Excellent experience,2025-07-17 15:00:00
+RV01080,O03376,1,Order arrived late,2025-03-30 20:00:00
+RV01081,O02924,2,Packaging could be improved,2025-02-11 09:00:00
+RV01082,O03735,1,Food was good but delivery was slow,2025-08-04 19:00:00
+RV01083,O03998,5,Fast delivery and tasty food,2025-09-06 17:00:00
+RV01084,O01238,5,Fast delivery and tasty food,2025-04-12 19:00:00
+RV01085,O02689,1,Packaging could be improved,2025-09-19 22:00:00
+RV01086,O03402,1,Excellent experience,2025-04-19 13:00:00
+RV01087,O02677,3,Great restaurant and service,2025-08-09 07:00:00
+RV01088,O00782,3,Great restaurant and service,2025-01-02 17:00:00
+RV01089,O04040,4,Great restaurant and service,2025-10-16 11:00:00
+RV01090,O04573,2,Excellent experience,2025-07-07 02:00:00
+RV01091,O03782,2,Order arrived late,2025-04-19 07:00:00
+RV01092,O03373,3,Order arrived late,2025-05-10 19:00:00
+RV01093,O04959,5,Excellent experience,2025-02-13 02:00:00
+RV01094,O00406,4,Food was good but delivery was slow,2025-05-07 11:00:00
+RV01095,O01064,3,Excellent experience,2025-12-04 20:00:00
+RV01096,O04838,4,Food was good but delivery was slow,2025-12-29 19:00:00
+RV01097,O03504,2,Packaging could be improved,2025-06-02 22:00:00
+RV01098,O00530,2,Great restaurant and service,2025-08-02 01:00:00
+RV01099,O01174,2,Food was good but delivery was slow,2025-07-17 22:00:00
+RV01100,O02283,5,Great restaurant and service,2025-09-27 13:00:00
+RV01101,O02113,3,Packaging could be improved,2025-06-24 02:00:00
+RV01102,O02706,4,Great restaurant and service,2025-08-29 04:00:00
+RV01103,O04666,3,Great restaurant and service,2025-02-01 23:00:00
+RV01104,O04953,2,Fast delivery and tasty food,2025-10-17 14:00:00
+RV01105,O00934,2,Excellent experience,2025-05-16 03:00:00
+RV01106,O01455,3,Order arrived late,2025-07-28 13:00:00
+RV01107,O01009,1,Fast delivery and tasty food,2025-01-20 21:00:00
+RV01108,O02883,1,Order arrived late,2025-04-04 15:00:00
+RV01109,O00248,3,Food was good but delivery was slow,2025-02-20 07:00:00
+RV01110,O01986,2,Excellent experience,2025-10-11 15:00:00
+RV01111,O00472,4,Excellent experience,2025-02-11 19:00:00
+RV01112,O04601,1,Excellent experience,2025-10-30 05:00:00
+RV01113,O03907,3,Fast delivery and tasty food,2025-06-14 20:00:00
+RV01114,O02324,5,Packaging could be improved,2025-12-22 22:00:00
+RV01115,O01350,3,Food was good but delivery was slow,2025-01-25 14:00:00
+RV01116,O04004,2,Fast delivery and tasty food,2025-04-28 20:00:00
+RV01117,O03650,3,Fast delivery and tasty food,2025-09-14 04:00:00
+RV01118,O00435,1,Packaging could be improved,2025-08-25 03:00:00
+RV01119,O00543,1,Order arrived late,2025-09-23 00:00:00
+RV01120,O00602,3,Order arrived late,2025-04-03 23:00:00
+RV01121,O04603,4,Excellent experience,2025-04-07 21:00:00
+RV01122,O02958,3,Fast delivery and tasty food,2025-04-15 22:00:00
+RV01123,O04713,4,Packaging could be improved,2025-06-05 02:00:00
+RV01124,O00082,1,Packaging could be improved,2025-10-11 05:00:00
+RV01125,O00948,5,Order arrived late,2025-01-04 12:00:00
+RV01126,O02247,4,Packaging could be improved,2025-12-26 17:00:00
+RV01127,O04224,3,Order arrived late,2025-07-18 20:00:00
+RV01128,O00520,2,Order arrived late,2025-11-15 04:00:00
+RV01129,O01824,2,Great restaurant and service,2025-07-30 13:00:00
+RV01130,O04575,3,Fast delivery and tasty food,2025-05-05 10:00:00
+RV01131,O01494,1,Great restaurant and service,2025-01-07 17:00:00
+RV01132,O04822,1,Food was good but delivery was slow,2025-10-09 17:00:00
+RV01133,O01888,1,Great restaurant and service,2025-10-14 00:00:00
+RV01134,O01270,3,Excellent experience,2025-08-07 20:00:00
+RV01135,O02973,2,Food was good but delivery was slow,2025-05-25 03:00:00
+RV01136,O04392,5,Packaging could be improved,2025-09-08 18:00:00
+RV01137,O04221,2,Great restaurant and service,2025-06-15 19:00:00
+RV01138,O03488,1,Food was good but delivery was slow,2025-03-07 21:00:00
+RV01139,O00320,3,Food was good but delivery was slow,2025-03-13 18:00:00
+RV01140,O00571,3,Order arrived late,2025-09-17 07:00:00
+RV01141,O01051,5,Fast delivery and tasty food,2025-04-07 13:00:00
+RV01142,O04707,2,Packaging could be improved,2025-03-02 01:00:00
+RV01143,O00677,1,Excellent experience,2025-10-24 18:00:00
+RV01144,O00738,5,Order arrived late,2025-04-02 16:00:00
+RV01145,O02237,1,Excellent experience,2025-07-13 19:00:00
+RV01146,O01891,2,Fast delivery and tasty food,2025-04-24 20:00:00
+RV01147,O04024,5,Food was good but delivery was slow,2025-03-27 13:00:00
+RV01148,O04588,1,Great restaurant and service,2025-02-05 14:00:00
+RV01149,O03890,4,Food was good but delivery was slow,2025-06-03 15:00:00
+RV01150,O04695,3,Fast delivery and tasty food,2025-06-09 15:00:00
+RV01151,O03754,2,Packaging could be improved,2025-12-18 07:00:00
+RV01152,O02528,3,Order arrived late,2025-10-13 22:00:00
+RV01153,O03892,1,Food was good but delivery was slow,2025-05-29 15:00:00
+RV01154,O03813,5,Great restaurant and service,2025-10-22 20:00:00
+RV01155,O04047,1,Fast delivery and tasty food,2025-08-24 15:00:00
+RV01156,O00893,4,Order arrived late,2025-11-09 21:00:00
+RV01157,O01864,4,Order arrived late,2025-11-28 19:00:00
+RV01158,O04793,2,Fast delivery and tasty food,2025-03-05 14:00:00
+RV01159,O03020,3,Food was good but delivery was slow,2025-12-06 10:00:00
+RV01160,O04622,1,Packaging could be improved,2025-11-26 04:00:00
+RV01161,O03097,4,Food was good but delivery was slow,2025-02-10 06:00:00
+RV01162,O01992,5,Food was good but delivery was slow,2025-08-26 11:00:00
+RV01163,O01108,1,Food was good but delivery was slow,2025-12-16 02:00:00
+RV01164,O04662,2,Great restaurant and service,2025-12-30 14:00:00
+RV01165,O02773,5,Food was good but delivery was slow,2025-02-26 06:00:00
+RV01166,O04684,3,Great restaurant and service,2025-01-26 06:00:00
+RV01167,O01627,2,Great restaurant and service,2025-03-25 17:00:00
+RV01168,O02651,3,Excellent experience,2025-02-16 09:00:00
+RV01169,O01782,3,Fast delivery and tasty food,2025-03-08 12:00:00
+RV01170,O00425,4,Packaging could be improved,2025-03-25 16:00:00
+RV01171,O03277,3,Great restaurant and service,2025-03-19 00:00:00
+RV01172,O03766,5,Packaging could be improved,2025-01-18 13:00:00
+RV01173,O04632,5,Excellent experience,2025-07-22 14:00:00
+RV01174,O02410,5,Packaging could be improved,2025-05-11 01:00:00
+RV01175,O02764,1,Excellent experience,2025-07-22 17:00:00
+RV01176,O02412,4,Excellent experience,2025-03-03 11:00:00
+RV01177,O03815,4,Great restaurant and service,2025-04-16 21:00:00
+RV01178,O03269,5,Packaging could be improved,2025-04-16 20:00:00
+RV01179,O03857,1,Packaging could be improved,2025-02-02 05:00:00
+RV01180,O04890,3,Food was good but delivery was slow,2025-01-06 02:00:00
+RV01181,O04265,3,Great restaurant and service,2025-10-21 11:00:00
+RV01182,O01872,3,Excellent experience,2025-02-17 07:00:00
+RV01183,O02348,4,Order arrived late,2025-02-02 09:00:00
+RV01184,O01579,3,Fast delivery and tasty food,2025-05-29 08:00:00
+RV01185,O02746,1,Food was good but delivery was slow,2025-11-06 09:00:00
+RV01186,O02714,1,Great restaurant and service,2025-02-21 00:00:00
+RV01187,O02089,3,Excellent experience,2025-12-31 09:00:00
+RV01188,O00427,4,Great restaurant and service,2025-04-03 21:00:00
+RV01189,O00986,2,Food was good but delivery was slow,2025-12-08 21:00:00
+RV01190,O04716,5,Food was good but delivery was slow,2025-03-15 23:00:00
+RV01191,O04315,3,Great restaurant and service,2025-09-04 10:00:00
+RV01192,O00867,3,Great restaurant and service,2025-05-16 09:00:00
+RV01193,O00443,5,Fast delivery and tasty food,2025-02-15 11:00:00
+RV01194,O00858,2,Packaging could be improved,2025-04-04 09:00:00
+RV01195,O04345,3,Packaging could be improved,2025-07-05 04:00:00
+RV01196,O03378,3,Great restaurant and service,2025-05-03 08:00:00
+RV01197,O03104,2,Fast delivery and tasty food,2025-10-28 12:00:00
+RV01198,O04889,5,Great restaurant and service,2025-04-20 12:00:00
+RV01199,O04011,1,Food was good but delivery was slow,2025-03-22 08:00:00
+RV01200,O00163,3,Excellent experience,2025-11-18 23:00:00
+RV01201,O02426,3,Packaging could be improved,2025-05-03 10:00:00
+RV01202,O01355,4,Order arrived late,2025-08-22 06:00:00
+RV01203,O00549,2,Great restaurant and service,2025-02-19 22:00:00
+RV01204,O04606,3,Great restaurant and service,2025-03-04 10:00:00
+RV01205,O03538,4,Excellent experience,2025-11-18 23:00:00
+RV01206,O01688,1,Food was good but delivery was slow,2025-05-20 18:00:00
+RV01207,O00096,2,Order arrived late,2025-08-23 16:00:00
+RV01208,O04628,1,Excellent experience,2025-06-04 01:00:00
+RV01209,O04618,4,Fast delivery and tasty food,2025-10-14 06:00:00
+RV01210,O03795,5,Order arrived late,2025-08-21 22:00:00
+RV01211,O00648,2,Great restaurant and service,2025-07-05 18:00:00
+RV01212,O02732,5,Food was good but delivery was slow,2025-06-18 16:00:00
+RV01213,O02825,4,Great restaurant and service,2025-01-15 00:00:00
+RV01214,O03612,2,Order arrived late,2025-10-21 13:00:00
+RV01215,O01489,3,Fast delivery and tasty food,2025-08-06 02:00:00
+RV01216,O00650,4,Packaging could be improved,2025-02-15 13:00:00
+RV01217,O03231,4,Packaging could be improved,2025-06-03 01:00:00
+RV01218,O01422,1,Great restaurant and service,2025-02-12 17:00:00
+RV01219,O01948,5,Packaging could be improved,2025-03-23 09:00:00
+RV01220,O02104,2,Fast delivery and tasty food,2025-10-26 18:00:00
+RV01221,O02273,2,Great restaurant and service,2025-11-15 07:00:00
+RV01222,O01880,3,Excellent experience,2025-11-20 15:00:00
+RV01223,O00499,2,Fast delivery and tasty food,2025-01-05 10:00:00
+RV01224,O01764,3,Order arrived late,2025-03-16 00:00:00
+RV01225,O01384,2,Excellent experience,2025-11-25 04:00:00
+RV01226,O00991,1,Packaging could be improved,2025-03-31 05:00:00
+RV01227,O00659,4,Great restaurant and service,2025-06-27 23:00:00
+RV01228,O01463,2,Fast delivery and tasty food,2025-11-06 12:00:00
+RV01229,O03192,4,Food was good but delivery was slow,2025-07-11 18:00:00
+RV01230,O01767,5,Packaging could be improved,2025-03-10 01:00:00
+RV01231,O00919,4,Food was good but delivery was slow,2025-06-08 12:00:00
+RV01232,O01514,5,Great restaurant and service,2025-04-15 04:00:00
+RV01233,O01689,2,Excellent experience,2025-07-16 17:00:00
+RV01234,O01505,1,Packaging could be improved,2025-09-04 12:00:00
+RV01235,O01447,1,Great restaurant and service,2025-11-15 20:00:00
+RV01236,O02890,4,Fast delivery and tasty food,2025-02-05 06:00:00
+RV01237,O00825,1,Food was good but delivery was slow,2025-06-02 23:00:00
+RV01238,O04500,5,Fast delivery and tasty food,2025-05-26 13:00:00
+RV01239,O02555,1,Packaging could be improved,2025-02-15 05:00:00
+RV01240,O03297,1,Fast delivery and tasty food,2025-10-12 10:00:00
+RV01241,O01193,1,Packaging could be improved,2025-04-21 00:00:00
+RV01242,O04378,3,Order arrived late,2025-12-14 00:00:00
+RV01243,O03487,3,Fast delivery and tasty food,2025-11-13 19:00:00
+RV01244,O03090,4,Order arrived late,2025-07-16 18:00:00
+RV01245,O00356,2,Food was good but delivery was slow,2025-08-09 08:00:00
+RV01246,O02027,2,Great restaurant and service,2025-02-14 12:00:00
+RV01247,O03479,5,Fast delivery and tasty food,2025-07-10 17:00:00
+RV01248,O03554,5,Fast delivery and tasty food,2025-09-05 06:00:00
+RV01249,O02687,4,Food was good but delivery was slow,2025-05-19 02:00:00
+RV01250,O01199,3,Fast delivery and tasty food,2025-02-22 16:00:00
+RV01251,O01007,1,Packaging could be improved,2025-12-01 07:00:00
+RV01252,O01246,3,Order arrived late,2025-09-27 18:00:00
+RV01253,O00021,3,Excellent experience,2025-06-16 02:00:00
+RV01254,O00822,4,Packaging could be improved,2025-09-26 12:00:00
+RV01255,O03440,3,Excellent experience,2025-07-09 07:00:00
+RV01256,O03468,2,Food was good but delivery was slow,2025-09-11 07:00:00
+RV01257,O03993,3,Food was good but delivery was slow,2025-02-26 03:00:00
+RV01258,O04924,2,Fast delivery and tasty food,2025-02-15 17:00:00
+RV01259,O04193,5,Packaging could be improved,2025-11-13 07:00:00
+RV01260,O01143,5,Great restaurant and service,2025-05-08 00:00:00
+RV01261,O01401,4,Excellent experience,2025-05-24 11:00:00
+RV01262,O01909,1,Order arrived late,2025-07-23 10:00:00
+RV01263,O00550,3,Great restaurant and service,2025-12-14 15:00:00
+RV01264,O00724,1,Packaging could be improved,2025-03-20 18:00:00
+RV01265,O02442,2,Great restaurant and service,2025-12-23 01:00:00
+RV01266,O04360,1,Food was good but delivery was slow,2025-09-19 15:00:00
+RV01267,O03960,3,Packaging could be improved,2025-12-21 09:00:00
+RV01268,O03633,1,Order arrived late,2025-05-27 07:00:00
+RV01269,O03245,1,Packaging could be improved,2025-10-12 14:00:00
+RV01270,O04309,1,Fast delivery and tasty food,2025-02-17 01:00:00
+RV01271,O00097,4,Great restaurant and service,2025-11-11 07:00:00
+RV01272,O02552,1,Order arrived late,2025-12-06 12:00:00
+RV01273,O02399,3,Excellent experience,2025-03-15 03:00:00
+RV01274,O00474,3,Food was good but delivery was slow,2025-10-15 23:00:00
+RV01275,O02782,1,Packaging could be improved,2025-04-24 02:00:00
+RV01276,O01830,4,Order arrived late,2025-06-18 14:00:00
+RV01277,O03191,2,Fast delivery and tasty food,2025-02-21 18:00:00
+RV01278,O01977,1,Fast delivery and tasty food,2025-11-16 00:00:00
+RV01279,O03049,4,Excellent experience,2025-10-02 12:00:00
+RV01280,O02795,5,Food was good but delivery was slow,2025-05-17 09:00:00
+RV01281,O02868,3,Fast delivery and tasty food,2025-10-24 01:00:00
+RV01282,O00902,5,Food was good but delivery was slow,2025-11-29 04:00:00
+RV01283,O01052,3,Order arrived late,2025-12-28 14:00:00
+RV01284,O00848,2,Packaging could be improved,2025-12-14 21:00:00
+RV01285,O03244,4,Excellent experience,2025-07-04 03:00:00
+RV01286,O02961,2,Fast delivery and tasty food,2025-04-09 09:00:00
+RV01287,O00119,5,Packaging could be improved,2025-01-15 01:00:00
+RV01288,O04851,4,Fast delivery and tasty food,2025-12-26 21:00:00
+RV01289,O04812,5,Excellent experience,2025-08-12 05:00:00
+RV01290,O01087,1,Fast delivery and tasty food,2025-01-10 19:00:00
+RV01291,O02219,5,Excellent experience,2025-12-11 14:00:00
+RV01292,O03884,2,Packaging could be improved,2025-05-16 02:00:00
+RV01293,O02396,2,Order arrived late,2025-06-19 06:00:00
+RV01294,O03555,1,Excellent experience,2025-07-01 04:00:00
+RV01295,O02380,4,Order arrived late,2025-02-25 15:00:00
+RV01296,O04929,5,Food was good but delivery was slow,2025-07-02 09:00:00
+RV01297,O01892,5,Packaging could be improved,2025-04-01 15:00:00
+RV01298,O02245,5,Excellent experience,2025-02-03 23:00:00
+RV01299,O02032,4,Packaging could be improved,2025-07-01 17:00:00
+RV01300,O01640,2,Great restaurant and service,2025-05-09 18:00:00
+RV01301,O04956,1,Order arrived late,2025-04-09 21:00:00
+RV01302,O04462,4,Order arrived late,2025-01-13 00:00:00
+RV01303,O01176,1,Packaging could be improved,2025-10-19 05:00:00
+RV01304,O00041,3,Packaging could be improved,2025-06-08 10:00:00
+RV01305,O02975,1,Great restaurant and service,2025-11-13 16:00:00
+RV01306,O02084,3,Order arrived late,2025-05-28 21:00:00
+RV01307,O03476,1,Great restaurant and service,2025-06-13 08:00:00
+RV01308,O03337,3,Great restaurant and service,2025-11-07 12:00:00
+RV01309,O04488,5,Packaging could be improved,2025-12-07 22:00:00
+RV01310,O03739,4,Great restaurant and service,2025-06-08 19:00:00
+RV01311,O01758,5,Order arrived late,2025-01-25 14:00:00
+RV01312,O03344,2,Food was good but delivery was slow,2025-08-31 01:00:00
+RV01313,O03021,4,Order arrived late,2025-02-23 12:00:00
+RV01314,O00985,5,Great restaurant and service,2025-05-11 20:00:00
+RV01315,O04893,1,Fast delivery and tasty food,2025-12-19 13:00:00
+RV01316,O03434,4,Order arrived late,2025-01-29 14:00:00
+RV01317,O00544,1,Food was good but delivery was slow,2025-10-23 16:00:00
+RV01318,O02694,5,Order arrived late,2025-07-20 11:00:00
+RV01319,O04690,4,Packaging could be improved,2025-09-13 22:00:00
+RV01320,O04305,5,Great restaurant and service,2025-07-31 08:00:00
+RV01321,O02475,2,Food was good but delivery was slow,2025-02-15 20:00:00
+RV01322,O03765,5,Excellent experience,2025-02-19 06:00:00
+RV01323,O01995,2,Order arrived late,2025-08-24 08:00:00
+RV01324,O00961,5,Packaging could be improved,2025-03-04 14:00:00
+RV01325,O04247,4,Excellent experience,2025-03-13 09:00:00
+RV01326,O02001,1,Excellent experience,2025-01-16 17:00:00
+RV01327,O03159,4,Excellent experience,2025-06-27 20:00:00
+RV01328,O00164,5,Fast delivery and tasty food,2025-02-03 01:00:00
+RV01329,O04734,5,Great restaurant and service,2025-11-25 00:00:00
+RV01330,O04420,5,Packaging could be improved,2025-01-15 08:00:00
+RV01331,O03585,3,Fast delivery and tasty food,2025-01-27 08:00:00
+RV01332,O00466,2,Packaging could be improved,2025-08-29 19:00:00
+RV01333,O00896,1,Packaging could be improved,2025-11-12 19:00:00
+RV01334,O03319,2,Great restaurant and service,2025-11-05 01:00:00
+RV01335,O01157,5,Food was good but delivery was slow,2025-03-21 15:00:00
+RV01336,O03286,5,Excellent experience,2025-02-03 19:00:00
+RV01337,O03796,2,Order arrived late,2025-05-30 14:00:00
+RV01338,O02864,2,Food was good but delivery was slow,2025-04-10 05:00:00
+RV01339,O03081,2,Order arrived late,2025-10-27 04:00:00
+RV01340,O00627,3,Great restaurant and service,2025-06-03 15:00:00
+RV01341,O01425,2,Excellent experience,2025-08-10 04:00:00
+RV01342,O02719,5,Packaging could be improved,2025-08-04 02:00:00
+RV01343,O00378,1,Great restaurant and service,2025-04-22 23:00:00
+RV01344,O01973,4,Food was good but delivery was slow,2025-02-21 20:00:00
+RV01345,O02787,2,Fast delivery and tasty food,2025-03-18 16:00:00
+RV01346,O03935,2,Packaging could be improved,2025-05-01 02:00:00
+RV01347,O00750,2,Great restaurant and service,2025-02-22 08:00:00
+RV01348,O01669,1,Fast delivery and tasty food,2025-10-20 03:00:00
+RV01349,O00974,2,Packaging could be improved,2025-04-24 14:00:00
+RV01350,O00711,2,Packaging could be improved,2025-01-08 03:00:00
+RV01351,O00449,2,Excellent experience,2025-05-30 10:00:00
+RV01352,O04466,1,Food was good but delivery was slow,2025-04-29 15:00:00
+RV01353,O02661,4,Great restaurant and service,2025-01-26 14:00:00
+RV01354,O00774,5,Great restaurant and service,2025-04-02 15:00:00
+RV01355,O02195,1,Great restaurant and service,2025-01-18 07:00:00
+RV01356,O00798,2,Order arrived late,2025-06-15 00:00:00
+RV01357,O02697,3,Excellent experience,2025-01-17 18:00:00
+RV01358,O01088,1,Order arrived late,2025-03-22 05:00:00
+RV01359,O00824,2,Packaging could be improved,2025-01-27 11:00:00
+RV01360,O03298,2,Fast delivery and tasty food,2025-12-13 23:00:00
+RV01361,O02344,5,Order arrived late,2025-05-21 17:00:00
+RV01362,O00371,1,Fast delivery and tasty food,2025-05-15 00:00:00
+RV01363,O02592,1,Order arrived late,2025-06-11 08:00:00
+RV01364,O00252,5,Fast delivery and tasty food,2025-08-22 22:00:00
+RV01365,O01326,3,Excellent experience,2025-09-23 19:00:00
+RV01366,O01266,3,Order arrived late,2025-07-11 23:00:00
+RV01367,O00582,4,Excellent experience,2025-08-04 22:00:00
+RV01368,O03409,4,Excellent experience,2025-10-20 21:00:00
+RV01369,O02663,5,Fast delivery and tasty food,2025-12-31 07:00:00
+RV01370,O00289,1,Order arrived late,2025-08-20 18:00:00
+RV01371,O04541,2,Order arrived late,2025-03-07 08:00:00
+RV01372,O01588,3,Food was good but delivery was slow,2025-02-09 18:00:00
+RV01373,O02141,1,Fast delivery and tasty food,2025-02-07 05:00:00
+RV01374,O03383,4,Order arrived late,2025-03-16 13:00:00
+RV01375,O01555,3,Packaging could be improved,2025-02-21 11:00:00
+RV01376,O01988,2,Food was good but delivery was slow,2025-10-10 17:00:00
+RV01377,O04329,4,Order arrived late,2025-02-23 23:00:00
+RV01378,O02984,2,Fast delivery and tasty food,2025-04-14 14:00:00
+RV01379,O02101,4,Great restaurant and service,2025-01-28 23:00:00
+RV01380,O03790,2,Packaging could be improved,2025-10-13 03:00:00
+RV01381,O00005,3,Order arrived late,2025-12-31 21:00:00
+RV01382,O03939,5,Excellent experience,2025-07-27 16:00:00
+RV01383,O02189,2,Excellent experience,2025-07-29 09:00:00
+RV01384,O00344,3,Packaging could be improved,2025-02-18 19:00:00
+RV01385,O04062,1,Packaging could be improved,2025-02-08 18:00:00
+RV01386,O03783,1,Packaging could be improved,2025-11-24 14:00:00
+RV01387,O00028,4,Packaging could be improved,2025-10-29 13:00:00
+RV01388,O00509,5,Fast delivery and tasty food,2025-12-13 00:00:00
+RV01389,O04635,4,Excellent experience,2025-05-10 10:00:00
+RV01390,O03254,2,Order arrived late,2025-03-16 16:00:00
+RV01391,O04538,5,Order arrived late,2025-11-18 20:00:00
+RV01392,O00148,2,Excellent experience,2025-12-06 03:00:00
+RV01393,O02988,3,Order arrived late,2025-05-13 22:00:00
+RV01394,O01342,5,Great restaurant and service,2025-03-18 02:00:00
+RV01395,O00623,1,Excellent experience,2025-09-26 22:00:00
+RV01396,O03868,3,Great restaurant and service,2025-07-10 10:00:00
+RV01397,O01771,3,Great restaurant and service,2025-02-17 18:00:00
+RV01398,O00460,2,Food was good but delivery was slow,2025-03-03 08:00:00
+RV01399,O04492,4,Excellent experience,2025-05-05 21:00:00
+RV01400,O03656,2,Order arrived late,2025-09-20 15:00:00
+RV01401,O00200,3,Food was good but delivery was slow,2025-02-09 20:00:00
+RV01402,O00954,5,Order arrived late,2026-01-02 09:00:00
+RV01403,O00576,1,Fast delivery and tasty food,2025-03-21 16:00:00
+RV01404,O00587,3,Great restaurant and service,2025-12-08 16:00:00
+RV01405,O01736,4,Order arrived late,2025-12-02 14:00:00
+RV01406,O00444,4,Food was good but delivery was slow,2025-03-29 02:00:00
+RV01407,O00011,5,Excellent experience,2025-07-16 12:00:00
+RV01408,O04007,4,Order arrived late,2025-12-02 08:00:00
+RV01409,O01495,5,Excellent experience,2025-02-11 17:00:00
+RV01410,O04396,4,Order arrived late,2025-07-27 02:00:00
+RV01411,O02544,2,Packaging could be improved,2025-03-24 02:00:00
+RV01412,O00842,1,Great restaurant and service,2025-01-29 01:00:00
+RV01413,O02960,1,Order arrived late,2025-06-28 06:00:00
+RV01414,O01376,3,Great restaurant and service,2025-04-28 08:00:00
+RV01415,O03347,3,Packaging could be improved,2025-07-24 07:00:00
+RV01416,O04205,2,Order arrived late,2025-01-03 03:00:00
+RV01417,O01793,2,Order arrived late,2025-01-06 16:00:00
+RV01418,O04581,1,Packaging could be improved,2025-11-13 18:00:00
+RV01419,O03259,3,Great restaurant and service,2025-09-07 03:00:00
+RV01420,O00410,3,Great restaurant and service,2025-01-30 12:00:00
+RV01421,O02983,1,Fast delivery and tasty food,2025-05-01 11:00:00
+RV01422,O03330,5,Excellent experience,2025-05-12 17:00:00
+RV01423,O04863,2,Food was good but delivery was slow,2025-01-14 19:00:00
+RV01424,O01897,3,Great restaurant and service,2025-11-26 18:00:00
+RV01425,O02125,1,Great restaurant and service,2025-11-25 09:00:00
+RV01426,O00926,2,Order arrived late,2025-10-23 12:00:00
+RV01427,O00434,1,Food was good but delivery was slow,2025-05-02 05:00:00
+RV01428,O03200,5,Fast delivery and tasty food,2025-05-24 06:00:00
+RV01429,O01351,4,Order arrived late,2025-07-02 00:00:00
+RV01430,O04178,3,Packaging could be improved,2025-08-27 14:00:00
+RV01431,O00496,2,Packaging could be improved,2025-11-21 14:00:00
+RV01432,O02404,1,Order arrived late,2025-09-24 02:00:00
+RV01433,O00093,1,Packaging could be improved,2025-08-07 01:00:00
+RV01434,O03700,2,Fast delivery and tasty food,2025-06-24 05:00:00
+RV01435,O04676,3,Excellent experience,2025-09-13 19:00:00
+RV01436,O00266,3,Excellent experience,2025-10-05 16:00:00
+RV01437,O04192,1,Fast delivery and tasty food,2025-11-29 15:00:00
+RV01438,O02288,3,Packaging could be improved,2025-08-16 10:00:00
+RV01439,O04617,4,Excellent experience,2025-07-06 06:00:00
+RV01440,O04923,5,Packaging could be improved,2025-10-14 21:00:00
+RV01441,O04624,5,Packaging could be improved,2025-02-24 08:00:00
+RV01442,O04148,4,Food was good but delivery was slow,2025-12-27 16:00:00
+RV01443,O03310,3,Great restaurant and service,2025-05-22 07:00:00
+RV01444,O04451,1,Excellent experience,2025-01-15 22:00:00
+RV01445,O03974,3,Packaging could be improved,2025-01-25 04:00:00
+RV01446,O01263,2,Food was good but delivery was slow,2025-10-23 02:00:00
+RV01447,O03491,2,Fast delivery and tasty food,2025-11-19 22:00:00
+RV01448,O00661,3,Great restaurant and service,2025-09-10 22:00:00
+RV01449,O03661,4,Excellent experience,2025-10-06 18:00:00
+RV01450,O01759,2,Fast delivery and tasty food,2025-08-07 21:00:00
+RV01451,O02815,5,Fast delivery and tasty food,2025-10-09 00:00:00
+RV01452,O01500,1,Great restaurant and service,2025-05-12 16:00:00
+RV01453,O04788,4,Great restaurant and service,2025-10-19 22:00:00
+RV01454,O00127,2,Order arrived late,2025-08-12 02:00:00
+RV01455,O00638,1,Excellent experience,2026-01-01 21:00:00
+RV01456,O01776,5,Fast delivery and tasty food,2025-11-24 16:00:00
+RV01457,O03329,2,Great restaurant and service,2025-05-13 16:00:00
+RV01458,O02279,2,Fast delivery and tasty food,2025-06-09 13:00:00
+RV01459,O04869,1,Fast delivery and tasty food,2025-09-06 03:00:00
+RV01460,O00475,1,Packaging could be improved,2025-12-20 21:00:00
+RV01461,O02315,3,Excellent experience,2025-03-29 20:00:00
+RV01462,O00891,2,Excellent experience,2025-05-28 20:00:00
+RV01463,O01879,5,Excellent experience,2025-02-07 18:00:00
+RV01464,O01796,1,Excellent experience,2025-06-29 07:00:00
+RV01465,O01173,4,Excellent experience,2025-12-19 04:00:00
+RV01466,O04633,2,Fast delivery and tasty food,2025-03-23 11:00:00
+RV01467,O02606,4,Food was good but delivery was slow,2025-02-16 23:00:00
+RV01468,O02600,2,Order arrived late,2025-04-14 17:00:00
+RV01469,O04704,1,Excellent experience,2025-01-05 08:00:00
+RV01470,O04064,3,Packaging could be improved,2025-02-01 17:00:00
+RV01471,O01241,2,Food was good but delivery was slow,2025-12-04 18:00:00
+RV01472,O00303,1,Packaging could be improved,2025-06-14 08:00:00
+RV01473,O01091,1,Fast delivery and tasty food,2025-04-21 08:00:00
+RV01474,O01980,1,Great restaurant and service,2025-04-11 16:00:00
+RV01475,O02799,4,Order arrived late,2025-10-07 12:00:00
+RV01476,O02150,1,Fast delivery and tasty food,2025-04-30 06:00:00
+RV01477,O04995,4,Fast delivery and tasty food,2025-05-10 14:00:00
+RV01478,O00359,5,Great restaurant and service,2025-10-15 13:00:00
+RV01479,O00726,3,Excellent experience,2025-11-14 04:00:00
+RV01480,O00249,1,Great restaurant and service,2025-03-15 08:00:00
+RV01481,O03331,5,Great restaurant and service,2025-10-03 14:00:00
+RV01482,O00597,1,Packaging could be improved,2025-06-01 21:00:00
+RV01483,O04550,5,Excellent experience,2025-09-05 22:00:00
+RV01484,O03653,1,Fast delivery and tasty food,2025-02-09 11:00:00
+RV01485,O02375,3,Order arrived late,2025-12-15 17:00:00
+RV01486,O03991,1,Food was good but delivery was slow,2025-05-19 13:00:00
+RV01487,O01928,4,Fast delivery and tasty food,2025-06-15 00:00:00
+RV01488,O00835,1,Fast delivery and tasty food,2025-10-25 02:00:00
+RV01489,O02948,2,Fast delivery and tasty food,2025-12-21 12:00:00
+RV01490,O03466,4,Packaging could be improved,2025-09-02 05:00:00
+RV01491,O03458,5,Food was good but delivery was slow,2025-09-21 15:00:00
+RV01492,O04022,1,Order arrived late,2025-03-22 15:00:00
+RV01493,O01716,1,Fast delivery and tasty food,2025-09-09 10:00:00
+RV01494,O01744,1,Food was good but delivery was slow,2025-06-09 19:00:00
+RV01495,O04815,2,Fast delivery and tasty food,2025-12-24 00:00:00
+RV01496,O00561,3,Great restaurant and service,2025-06-16 15:00:00
+RV01497,O03311,3,Food was good but delivery was slow,2025-06-08 16:00:00
+RV01498,O03646,4,Food was good but delivery was slow,2025-12-06 16:00:00
+RV01499,O02777,4,Packaging could be improved,2025-12-10 06:00:00
+RV01500,O02685,2,Packaging could be improved,2025-02-17 21:00:00
+RV01501,O02519,2,Food was good but delivery was slow,2025-06-29 23:00:00
+RV01502,O04619,2,Excellent experience,2025-08-27 18:00:00
+RV01503,O02011,5,Fast delivery and tasty food,2025-03-22 03:00:00
+RV01504,O04799,2,Packaging could be improved,2025-07-15 15:00:00
+RV01505,O00632,2,Great restaurant and service,2025-12-02 11:00:00
+RV01506,O03662,2,Food was good but delivery was slow,2025-02-20 03:00:00
+RV01507,O02949,2,Great restaurant and service,2025-05-20 13:00:00
+RV01508,O01695,3,Excellent experience,2025-10-26 08:00:00
+RV01509,O02828,1,Food was good but delivery was slow,2025-04-15 17:00:00
+RV01510,O04873,1,Order arrived late,2025-06-25 18:00:00
+RV01511,O02305,3,Food was good but delivery was slow,2025-02-22 11:00:00
+RV01512,O01781,2,Order arrived late,2025-12-01 05:00:00
+RV01513,O01677,5,Packaging could be improved,2025-11-12 08:00:00
+RV01514,O00682,5,Packaging could be improved,2025-05-13 21:00:00
+RV01515,O03173,4,Food was good but delivery was slow,2025-03-14 18:00:00
+RV01516,O04338,1,Packaging could be improved,2025-06-10 11:00:00
+RV01517,O01309,4,Food was good but delivery was slow,2025-10-09 05:00:00
+RV01518,O00681,2,Great restaurant and service,2025-11-01 13:00:00
+RV01519,O00451,4,Food was good but delivery was slow,2025-07-21 09:00:00
+RV01520,O01982,2,Order arrived late,2025-07-16 18:00:00
+RV01521,O02743,4,Fast delivery and tasty food,2025-01-30 19:00:00
+RV01522,O01487,3,Food was good but delivery was slow,2025-10-09 03:00:00
+RV01523,O02701,2,Fast delivery and tasty food,2025-12-01 15:00:00
+RV01524,O04659,5,Excellent experience,2025-11-24 11:00:00
+RV01525,O00060,2,Packaging could be improved,2025-02-07 18:00:00
+RV01526,O04240,5,Excellent experience,2025-04-17 16:00:00
+RV01527,O03484,5,Excellent experience,2025-10-23 20:00:00
+RV01528,O04366,4,Food was good but delivery was slow,2025-03-03 10:00:00
+RV01529,O01757,1,Excellent experience,2025-09-16 18:00:00
+RV01530,O04558,1,Food was good but delivery was slow,2025-09-25 05:00:00
+RV01531,O04501,1,Packaging could be improved,2025-11-18 17:00:00
+RV01532,O03056,5,Packaging could be improved,2025-01-11 10:00:00
+RV01533,O00006,1,Excellent experience,2025-06-10 12:00:00
+RV01534,O00606,2,Food was good but delivery was slow,2025-04-06 06:00:00
+RV01535,O02470,2,Order arrived late,2025-08-24 02:00:00
+RV01536,O03126,2,Order arrived late,2025-03-12 03:00:00
+RV01537,O00279,5,Fast delivery and tasty food,2025-12-30 04:00:00
+RV01538,O02594,5,Fast delivery and tasty food,2025-05-23 10:00:00
+RV01539,O01869,1,Great restaurant and service,2025-12-01 02:00:00
+RV01540,O01722,4,Fast delivery and tasty food,2025-08-01 02:00:00
+RV01541,O02165,5,Excellent experience,2025-05-18 03:00:00
+RV01542,O00713,3,Food was good but delivery was slow,2025-07-10 17:00:00
+RV01543,O04094,2,Fast delivery and tasty food,2025-11-02 00:00:00
+RV01544,O02657,2,Food was good but delivery was slow,2025-10-26 02:00:00
+RV01545,O01015,1,Excellent experience,2025-01-16 12:00:00
+RV01546,O00428,4,Food was good but delivery was slow,2025-04-08 03:00:00
+RV01547,O02102,2,Great restaurant and service,2025-08-03 06:00:00
+RV01548,O04136,5,Food was good but delivery was slow,2025-03-12 17:00:00
+RV01549,O02899,4,Excellent experience,2025-06-13 05:00:00
+RV01550,O02137,2,Great restaurant and service,2025-01-26 16:00:00
+RV01551,O03408,1,Order arrived late,2026-01-01 18:00:00
+RV01552,O01910,1,Food was good but delivery was slow,2025-10-20 05:00:00
+RV01553,O04555,1,Food was good but delivery was slow,2025-07-31 05:00:00
+RV01554,O00224,5,Packaging could be improved,2025-03-04 04:00:00
+RV01555,O03172,1,Packaging could be improved,2025-09-28 06:00:00
+RV01556,O02378,3,Great restaurant and service,2025-04-25 19:00:00
+RV01557,O01056,5,Fast delivery and tasty food,2025-11-26 16:00:00
+RV01558,O04740,3,Fast delivery and tasty food,2025-05-09 05:00:00
+RV01559,O04638,1,Excellent experience,2025-06-28 23:00:00
+RV01560,O01826,4,Excellent experience,2025-07-18 05:00:00
+RV01561,O00845,5,Packaging could be improved,2025-05-30 11:00:00
+RV01562,O04203,3,Packaging could be improved,2025-02-11 12:00:00
+RV01563,O01987,5,Fast delivery and tasty food,2025-01-07 05:00:00
+RV01564,O03280,3,Packaging could be improved,2025-07-20 17:00:00
+RV01565,O00142,5,Food was good but delivery was slow,2025-01-17 23:00:00
+RV01566,O03313,2,Food was good but delivery was slow,2025-03-11 02:00:00
+RV01567,O00946,3,Packaging could be improved,2025-05-06 22:00:00
+RV01568,O03557,3,Excellent experience,2025-05-05 13:00:00
+RV01569,O02246,5,Fast delivery and tasty food,2025-03-01 08:00:00
+RV01570,O02542,4,Food was good but delivery was slow,2025-12-16 17:00:00
+RV01571,O01927,2,Great restaurant and service,2025-07-24 09:00:00
+RV01572,O00270,3,Excellent experience,2025-12-18 09:00:00
+RV01573,O02156,1,Great restaurant and service,2025-03-13 02:00:00

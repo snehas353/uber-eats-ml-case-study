@@ -1,0 +1,8 @@
+Dataset,Rows,Columns,Missing Values,Duplicate Rows
+customers,1000,5,0,0
+restaurants,100,6,0,0
+drivers,150,4,0,0
+orders,5000,9,0,0
+deliveries,5000,7,0,0
+payments,5000,5,0,0
+reviews,1573,5,0,0
